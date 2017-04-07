@@ -18,7 +18,7 @@
 06300 | The shot is slightly zoomed out on the blu-ray version
 06540 | Alongside the eyeshines, Rall's collar is shaded darker behind her neck.
 06551 | Continuing the trend of removing bits of Nipa's face, the shadow below her mouth has been deleted.
-06668 | Naoe is higher up and to the right in this shot, keeping the focus on her speaking rather than Hikari's busom.
+06668 | Naoe is higher up and to the right in this shot, keeping the focus on her speaking rather than on Hikari's busom.
 06953 | Eyebeams. Also for a few frames of the TV version, a lock of Hikari's hair goes transparent below her eyelash.
 07123 | A patch of her hair behind Hikari's neck has been fixed.
 07485 | Her eyes have been shaded better, and there's a patch of blush on her cheek that is blended in with the shading.
@@ -64,7 +64,7 @@
 18590 | The usual Eye stuff, plus Rall's mouth has been lengthened a tad. The stripe on her uniform jacket is now green rather than black.
 18807 | The highlight on Sasha's tights are more diffuse in these two shots.
 18947 | 
-19283 | The lighting is darker and even, and more importantly, Nao is now flying the correct striker unit! Probably a stock footage mixup, her striker looks similar to Chidori.
+19283 | The lighting is darker and even, and more importantly, Nao is now flying the correct striker unit! Probably a stock footage mixup, the strikers are similar looking and both based on the Zero fighter.
 19458 | The red glowies are still present, the underlighting provided by the magic circles is slightly dimmer, and Nao's face has been slightly redrawn with a rounder jawline.
 19954 | The lighting on Nipa and Nao's weapons is lighter, Sasha's face has been redrawn, and Hikari is floating lower and further away from the group.
 20124 | The image is sharper and the characters are less obviously CG, check Nao's face plaster for a good example.
@@ -80,3 +80,57 @@
 20972 | The shading on Nao's face is less sharp and jojo-y.
 21048 | Hikari is holder her weapon lower, Nao is recoloured.
 21146 | Clouds!
+21271 | Brighter flash, slightly different clouds.
+21442 | In the TV version, the Neuroi completely breaks apart and is see through after being damaged, in the Blu-ray, only the surface is broken immediately.
+21584 | The damaged areas on the Neuroi spread across the hull in the BD version.
+21701 | The character replacements are posed slightly differently and there are fewer floaty particles.
+21737 | The ejection port on Hikari's weapon isn't filled in anymore, and the weird black splodge over the barrel is removed.
+21855 | More of the above.
+22692 | Brighter lighting in the hangar.
+23212 | The striker rack thing next to Hikari is drawn correctly, with the indicator lights facing the right way.
+23333 | Dimmer lighting on Rall's face.
+23546 | Rougher sea texture and Hikari's propellors are more transparent.
+23800 | This shot is framed differently, with Nao positioned closer to the centre. She's also been redrawn with different shading and better looking strikers.
+23870 | Hikari has an almost complete redraw to replace her CG counterpart.
+24035 | In a neat bit of continuity, this flashback also contains the fixed shadows from earlier.
+24100 | Hikari's ear fluffs are brighter and her nose has lost it's shadow.
+24260 | Nao is holding her weapon at a different angle and Hikari has thicker outlines in a few places. Most noticeable on her hands and the detail lines on her striker.
+24287 | The lower half of Nao's shirt has been removed, probably because it was static and removing it would be less work than animating it. Also, they fixed her occasionally vanishing right ear.
+24860 | She's been repositined slightly and her weapons shoulder strap goes over the shoulder now, not into it.
+24970 | Hikari has been moved up slightly to make it look less like she's about to cause a collision.
+25000 | 
+25113 | Nose shadow!
+25400 | The branch intersecting Nipa's side has been removed and her mouth animation is delayed by a few frames.
+25517 | More brighter ear fluff.
+25730 | <del>More</del> Less of this branch.
+25792 | Ears and nose!
+25890 | Nipa's weapon is shaded darker.
+25930 | And Nao's weapon strap and vents have been drawn in. Her mouth is a fraction closer to the middle of her face, and all the characters have upgraded eye beams.
+26130 | All the faces and outlines have had a major upgrade and the shadow on the Chidori's lower section is now going the right way.
+26624 | Brighter flash and much cleaner image quality.
+25711 | UsuaL cg character replacement switch. The sparks from her striker are now streaming from the propellor mechanism rather than just forward of it.
+26836 | Darker outlines on nearly everything.
+26867 | More darker outlines.
+26982 | Outlines and retimed shots.
+27100 | Nipa's weapon strap : now in brown.
+27515 | Different pose, clouds and contrails.
+27725 | The lighting falling on Chidori is now evening flavoured and the engraving isn't as bulky.
+28170 | Hikari's eyebrows have been fixed, perfecting this already great image.
+28270 | Better looking muzzle flash, and Hikari's right propellor is no longer overlapping Nipa's striker.
+28355 | The big beam crossing the screen vanishes faster on the blu-ray.
+28369 | Everything is now the correct colour and the beams aren't as blurry.
+28560 | Complete, and much appreciated, redraw.
+28630 | Like before, the damage now spreads before the Neuroi explodes. 
+28720 | Hikari now has a red face from exertion, and they both have eye shines.
+28830 | Nose shadow!
+28914 | Everyone has been replaced with a differently sized duplicate, complete with extra eyeshines.
+28957 | 
+29061 | These striker navigational lights now flash, and there is an extra shadow under the wing bit.
+29069 | Hikari's face looks a bit better, and Chidori has been redrawn, complete with the missing vertical stabilizers and navigational lights.
+29600 | Georgette and Sasha have been moved slightly, while Rall's uniform has been fixed.
+29750 | Nao's shirt button is now lighter.
+29907 | First up, Hikari and Nipa's faces have been redrawn, Nao's gloves in her pocket have been recoloured, and there is no longer a mysterious black void between her legs.
+30260 | Alongside the previous fixes, the tip of Nao's scarf has been coloured in yellow, Hikari's posture is different, having her leaning forward slightly less, and her tie is now shaded.
+30326 | Nao's face has been redrawn.
+31134 | Rossman's mouth has been retimed.
+31354 | Lots of small fixes here, the gap between Hikari's arm and her torso is now see through and her tie was missing a small section, the stripe on her collar is now white, and both of them have slightly different eyes.
