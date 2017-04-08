@@ -37,7 +37,7 @@
 09568 | Sadako's right arm is now visible as per the previous changes, and they completely redrew Georgette for some reason.
 09967 | Hikari has been redrawn
 10715 | Rossman's sleeve is coloured in correctly, and Rall has been repositioned to be more visible.
-11322 | Every chair now has a shadow and most have been moved slightly. Sadako now puts her arm down partway through the pan rather than just leaving it up.
+11322 | The chairs have been redrawn and their shadows removed. Sadako now puts her arm down partway through the pan rather than just leaving it up.
 12196 | Eyes!
 12245 | Part of Rall's collar was mistakenly coloured the same as her shirt, this has been corrected.
 12768 | For this sequence of Sadako cooking, she's been completely redrawn;
@@ -64,7 +64,7 @@
 18590 | The usual Eye stuff, plus Rall's mouth has been lengthened a tad. The stripe on her uniform jacket is now green rather than black.
 18807 | The highlight on Sasha's tights are more diffuse in these two shots.
 18947 | 
-19283 | The lighting is darker and even, and more importantly, Nao is now flying the correct striker unit! Probably a stock footage mixup, the strikers are similar looking and both based on the Zero fighter.
+19283 | The lighting is darker and even, and more importantly, Nao is now flying the correct striker unit! Probably a stock footage mixup, the strikers are similar looking and both based on variants of the <a href="https://en.wikipedia.org/wiki/Kawanishi_N1K>the Shiden fighter plane.</a>
 19458 | The red glowies are still present, the underlighting provided by the magic circles is slightly dimmer, and Nao's face has been slightly redrawn with a rounder jawline.
 19954 | The lighting on Nipa and Nao's weapons is lighter, Sasha's face has been redrawn, and Hikari is floating lower and further away from the group.
 20124 | The image is sharper and the characters are less obviously CG, check Nao's face plaster for a good example.
@@ -108,7 +108,7 @@
 25930 | And Nao's weapon strap and vents have been drawn in. Her mouth is a fraction closer to the middle of her face, and all the characters have upgraded eye beams.
 26130 | All the faces and outlines have had a major upgrade and the shadow on the Chidori's lower section is now going the right way.
 26624 | Brighter flash and much cleaner image quality.
-25711 | UsuaL cg character replacement switch. The sparks from her striker are now streaming from the propellor mechanism rather than just forward of it.
+26711 | Usual cg character replacement switch. The sparks from her striker are now streaming from the propellor mechanism rather than just forward of it.
 26836 | Darker outlines on nearly everything.
 26867 | More darker outlines.
 26982 | Outlines and retimed shots.
@@ -125,8 +125,9 @@
 28830 | Nose shadow!
 28914 | Everyone has been replaced with a differently sized duplicate, complete with extra eyeshines.
 28957 | 
-29061 | These striker navigational lights now flash, and there is an extra shadow under the wing bit.
+29057 | These striker navigational lights now exist when they're not flashing, and there is an extra shadow under the wing bit.
 29069 | Hikari's face looks a bit better, and Chidori has been redrawn, complete with the missing vertical stabilizers and navigational lights.
+29140 | 
 29600 | Georgette and Sasha have been moved slightly, while Rall's uniform has been fixed.
 29750 | Nao's shirt button is now lighter.
 29907 | First up, Hikari and Nipa's faces have been redrawn, Nao's gloves in her pocket have been recoloured, and there is no longer a mysterious black void between her legs.
