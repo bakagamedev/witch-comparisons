@@ -1,61 +1,60 @@
-00580 | More planes in the background
-00663 | Differently positioned smoke
-00687 | Plane closer to camera, more effects
-00711 | Downed plane added to shot
-00725 | Extra plane, more particles
+00580 | More planes in the background.
+00663 | Differently positioned smoke.
+00687 | Plane closer to camera, more effects.
+00711 | Downed plane added to shot, different contrails.
+00725 | Extra plane, more particles.
 00749 | Better looking explosion, yellow flash removed.
-01626 | Spacing is different, Better shading, some redraws
-01733 | The new linework is evident when Rall flies by the camera
-01934 | Nipa is shaded better, lasers have more detail
-01970 | Added bullet Sparks
-01983 | Better shaded muzzle flash, alongside sparks
-02015 | Character outlines, redder lasers
-02072 | Lasers, outlines
-02119 | Outlines, more sparks
-02291 | Explosion is less orange
-02341 | Nao has been redrawn and is nao in focus
-02417 | Much sharper redraw
-07062 | Hikari's hair has flatter shading
-07081 | She no longer shrinks for a few frames, the running animation is smoother
-10268 | Blur removed, shading improved
-10275 | Hikari and her training striker are shaded better
+01626 | Spacing is different, and the lines are sharper. Ralls weapon has been redrawn.
+01733 | The redrawn linework is obvious when Rall flies by the camera.
+01934 | Nipa is shaded better, lasers have more detail.
+01970 | Added bullet sparks.
+01983 | Better shaded muzzle flash, alongside sparks.
+02015 | Character outlines, redder lasers.
+02072 | Lasers, outlines.
+02119 | Outlines, more sparks.
+02291 | Explosion is less orange.
+02341 | Nao has been redrawn and is nao in clear focus.
+02417 | Much sharper redraw.
+07062 | Hikari's hair has flatter shading.
+07081 | She no longer shrinks for a few frames, making the running animation smoother.
+10268 | Blur removed, shading improved.
+10275 | Hikari and her training striker are shaded better.
 10363 | Hikari headbutts the camera, causing the blur algorithm to change intensity.
-10387 | Redrawn linework
-10398 | Sharper detail lines
-10494 | Hikari's graceful flying has been redrawn
-12045 | The ship is lit lighter, the bow is now leaving a larger wake, and the sea has a finer texture
-12114 | The witches have tighter poses, and have improved outlines
-12200 | Blur removed, outlines added
+10387 | Redrawn linework.
+10398 | Sharper detail lines.
+10494 | Hikari's graceful flying has been redrawn.
+12045 | The ship is lit lighter, the bow is now leaving a larger wake, and the sea has a finer texture.
+12114 | The witches have tighter poses, with improved outlines.
+12200 | Blur removed, outlines added.
 12674 | Carrier is moving across the frame slower, and is slightly lighter
 13984 | Whatshernames spooky doll mouth and dead eyes have been fixed. Additionally, Takami has a dot of eye-shine.
-14037 | Takami has two eye shinies this time
-14146 | Whatshernames mouth flaps have been retimed
-15137 | Subtle decensored nipple
-15150 | Hikari keeps her mouth open rather than talking silently
-15255 | More decensoring
-15291 | Eyes are shaded slightly lighter, nipple added
-15538 | Less derpy face
-15719 | Slightly sharper water line thing on her left (your right)
-16257 | Eyecatch comes in a frame too early. Not something I'd normally mention, but it threw the timing out for the rest of the episode, which was very irritating to work around
-16703 | Reshine'd eyes and redrawn mouth
+14037 | Takami has two eye shinies this time.
+14146 | Whatshernames mouth flaps have been retimed.
+15137 | Subtle decensored nipple.
+15150 | Hikari keeps her mouth open rather than talking silently.
+15255 | More decensoring.
+15291 | Eyes are shaded slightly lighter, nipple added.
+15538 | Less derpy face.
+15719 | Slightly sharper water line thing around Takami.
+16703 | Redrawn eyes and mouth.
 17490 | The centreline of Takami's uniform is very slightly thicker. Did you notice?
-17720 | This shot has been regraded to better fit the time of day.
-18267 | Some students have different hair colours
-18955 | And again
-22612 | yet another redrawn flying scene
-23038 | This whole shot has been slightly zoomed out, the ocean and sky are retextured, and the witches have bolder lines and redrawn facial features. Also note the redrawn tail, it was kinda stumpy and hard to notice in the tv version.
+17720 | This shot has been repainted to better fit the time of day.
+18267 | Some students have different hair colours.
+18955 | And again.
+22612 | Yet another redrawn flying scene.
+23038 | This whole shot has been slightly zoomed out, the ocean and sky are retextured, and the witches have bolder lines and redrawn facial features. Also note her tail, it was kinda stumpy and hard to notice in the tv version.
 23085 | Retextured ocean.
 23425 | Better lighting
-23685 | The next few shots have subtly different lighting in the background, not worth commenting on;
-24006 | Different mouth flap
-24083 | Ocean retexture and lighting differences
+23685 | The next few shots have subtly different lighting in the background.
+24006 | Different mouth flap.
+24083 | Ocean retexture and lighting differences.
 24112 | The better lighting makes it easier to make out ship details.
 24251 | 
 24371 | 
-24571 | Less blur on yet another redrawn Hikari
-24635 | Still CG, but her angry redrawn face amuses me
-24676 | This quality flying looks way better
-25063 | Lighting
-27053 | Repositioned elements, much better water
-31404 | <a href="http://anime.stackexchange.com/a/5334">Brighter lighting flashes</a>
-31454 | Brighter core
+24571 | Less blur on yet another redrawn Hikari.
+24635 | Still CG, but her angry redrawn face amuses me.
+24676 | This quality flying looks way better.
+25063 | Lighting.
+27053 | Higher redrawn water.
+31404 | Brighter lighting flashes <a href="http://anime.stackexchange.com/a/5334">for various tv broadcasting reasons</a>
+31454 | Brighter core.
