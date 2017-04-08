@@ -4,3 +4,12 @@ body {
 	max-width: 1280px;
 	margin: 10px 40px;
 }
+
+ol 
+{
+	list-style-type: none;
+}
+ol li
+{
+	padding-top: 20px;
+}
