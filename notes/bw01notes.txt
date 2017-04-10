@@ -23,7 +23,7 @@
 10387 | Redrawn linework.
 10398 | Sharper detail lines.
 10494 | Hikari's graceful flying has been redrawn.
-12045 | The ship is lit lighter, the bow is now leaving a larger wake, and the sea has a finer texture.
+12045 | The ship is lit lighter, the bow is now leaving a smaller, more detailed wake, and the sea has a finer texture.
 12114 | The witches have tighter poses, with improved outlines.
 12200 | Blur removed, outlines added.
 12674 | Carrier is moving across the frame slower, and is slightly lighter
@@ -48,7 +48,7 @@
 23685 | The next few shots have subtly different lighting in the background.
 24006 | Different mouth flap.
 24083 | Ocean retexture and lighting differences.
-24112 | The better lighting makes it easier to make out ship details.
+24112 | The better lighting makes it easier to make out ship details. Raising the question, shouldn't they have people on them? Guess their budget to fix stuff only goes so far.
 24251 | 
 24371 | 
 24571 | Less blur on yet another redrawn Hikari.
