@@ -1,3 +1,4 @@
+bwop
 00222 | The hideous motion blur has been removed, and contrails have been added to Hikari's strikers.
 00298 | 
 00784 | Hikari's face and uniform collar has been redrawn.
