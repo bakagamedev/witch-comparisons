@@ -1,4 +1,4 @@
-bw01	
+bw01|Brave Witches #01
 00580 | More planes in the background.
 00663 | Differently positioned smoke.
 00687 | Plane closer to camera, more effects.
