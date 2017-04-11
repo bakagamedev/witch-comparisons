@@ -20,16 +20,16 @@ bw03
 06540 | Alongside the eyeshines, Rall's collar is shaded darker behind her neck.
 06551 | Continuing the trend of removing bits of Nipa's face, the shadow below her mouth has been deleted.
 06668 | Naoe is higher up and to the right in this shot, keeping the focus on her speaking rather than on Hikari's busom.
-06953 | Eyebeams. Also for a few frames of the TV version, a lock of Hikari's hair goes transparent below her eyelash.
+06953 | Eyebeams. Also for a few frames of the TV version, a lock of Hikari's hair goes transparent below her eyebrow.
 07123 | A patch of her hair behind Hikari's neck has been fixed.
 07485 | Her eyes have been shaded better, and there's a patch of blush on her cheek that is blended in with the shading.
-08008 | Hikari's right (your left) eyelash is slightly darker, and her right iris has a thicker outline.
+08008 | Hikari's right (your left) eyebrow is slightly darker, and her right iris has a thicker outline.
 08114 | They removed the shadow cast by Hikari's nose.
 08148 | Nipa entering the frame, been retimed to be less jerky.
 08187 | And her subsequent animation has been completely redrawn
 08248 |
 08547 | Reshaded eyes.
-08600 | Reshaded ear and eyelashes.
+08600 | Reshaded ear and eyelashes. Missing bit of hair added.
 08748 | Super heavy nose shadow removed.
 08839 | Nipa is repositioned and shaded darker for consistency with previous shots.
 09049 | Hikari's hair shadow on her face no longer ends abruptly upon meeting the light shading.
