@@ -5,7 +5,7 @@ bw03
 03777 | Rossman has an almost completely redrawn face, new hair shading, and is stretched very slightly horizontally.
 03938 | Georgette's shirt sleeves are filled in correctly.
 04042 | Eyes
-04217 | This scroll to Nipa standing up waits a few frames before starting, and is much faster.
+04210 | This scroll to Nipa standing up waits a few frames before starting, and is much faster.
 04225 | Everyones face has been rerawn, but I feel they all ended up looking a bit worse.
 04424 | This episode : Eyes
 04558 | Krupinski and Nipa's pupils are now shaded better.
