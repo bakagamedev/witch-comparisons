@@ -7,7 +7,8 @@
   <link rel="icon" type="image/png" href=".\favicon.png">
 </head>
   <body>
-  <a href="index.html">Back</a> 
+    <div id="headerinclude"></div>
+  <div class="page">
 <ol>
 <li>
     <img src="./images/bw03.jpg" style="max-width: 100%"/>
@@ -957,14 +958,19 @@ Lots of small fixes here, the gap between Hikari's arm and her torso is now see 
 </div>
 </li>
 </ol>
-
+  </div>
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.10.1/jquery.min.js"></script>
     <script src="js/jquery.event.move.js"></script>
-    <script src="js/jquery.twentytwenty.js"></script>
+    <script src="js/jquery.twentytwenty.js"></script>    
+    <script>
+      $(function(){
+          $("#headerinclude").load("pageheader.html");
+      });
+    </script>  
     <script>
     $(window).load(function(){
       $(".twentytwenty-container[data-orientation!='vertical']").twentytwenty({default_offset_pct: 0.5});
     });
-    </script>
+    </script>    
   </body>
 </html>
