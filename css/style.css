@@ -49,3 +49,9 @@ ol li
 }
 
 ol li:nth-child(1) { padding-top:0px; }
+
+hr {
+	background:url(hr.png) no-repeat top right;
+	height:32px;
+	border:none !important;
+}
