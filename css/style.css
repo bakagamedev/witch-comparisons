@@ -1,15 +1,21 @@
 body {
-	background-color: #f2f2f2;
-	width: auto;
-	max-width: 1280px;
+	background-color: #ffffff;
 	margin: 10px 40px;
 }
 
+.page {
+    margin: 0 auto;	
+	max-width: 1280px;
+}
 ol 
 {
+	margin: 10px auto;
+	background-color: #f2f2f2;
 	list-style-type: none;
 }
 ol li
 {
+	margin-left:-30px;
+	margin-right:10px;
 	padding-top: 20px;
 }
