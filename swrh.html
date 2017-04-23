@@ -3,10 +3,10 @@
   <meta charset="utf-8" />
   <title>Extra - Romagnan Holiday</title>
   <link href="css/style.css" rel="stylesheet" type="text/css" />
-  <link rel="icon" type="image/png" href=".\favicon.png">
+  <link rel="icon" type="image/png" href=".\favicon.png">       
 </head>
   <body>
-    <a href="index.html">Back</a> 
+    <div id="headerinclude"></div>
   <div class="page">
     <ol>
   	<li>
@@ -79,5 +79,11 @@
     </li>
     </ol>  
     </div>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.10.1/jquery.min.js"></script>  
+    <script>
+      $(function(){
+          $("#headerinclude").load("pageheader.html");
+      });
+    </script>  
   </body>
 </html>
