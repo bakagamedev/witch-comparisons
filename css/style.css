@@ -35,6 +35,8 @@ body {
 	padding-top: 10px;
 }
 
+a {text-decoration: none; }
+
 ol 
 {
 	margin: 15px auto;
