@@ -39,4 +39,7 @@ ol li
 {
 	margin-left:-30px;
 	margin-right:10px;
+	padding-top:10px;
 }
+
+ol li:nth-child(1) { padding-top:0px; }
