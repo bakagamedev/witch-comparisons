@@ -1,0 +1,26 @@
+<html>
+<head>
+  <meta charset="utf-8" />
+  <title>About</title>
+  <link href="css/style.css" rel="stylesheet" type="text/css" />
+  <link rel="icon" type="image/png" href=".\favicon.png">       
+</head>
+  <body>
+  <?php include 'pageheader.php';?>
+    <div class="page">  
+    <ol>
+    <li>
+    Doing this because the Brave Witches TV version looked bad and I have some free time every now and then, and needed an excuse to learn how to wrangle HTML/CSS. <br/>
+    <a href="https://twitter.com/bakagamedev">For corrections and complaints, yell at me on Twitter.</a><p/>
+  Unaffiliated with, but inspired by <a href="https://jojocomparisons.github.io/">Jojo's bizarre Comparisons</a>.<br/> 
+    </li>
+    </ol>
+    </div>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.10.1/jquery.min.js"></script>  
+    <script>
+      $(function(){
+          $("#headerinclude").load("pageheader.html");
+      });
+    </script>  
+  </body>
+</html>
