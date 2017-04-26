@@ -16,11 +16,5 @@
     </li>
     </ol>
     </div>
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.10.1/jquery.min.js"></script>  
-    <script>
-      $(function(){
-          $("#headerinclude").load("pageheader.html");
-      });
-    </script>  
   </body>
 </html>

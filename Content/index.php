@@ -31,7 +31,7 @@ Extra pages
 	<li><a title="Added 23rd April 2017" href="swrh.php">Strike Witches 2 - Romagnan Holiday</a> - 28 Images - SFW</li>
 </ul>
 <hr/>
-Fair warning, pages are <strong>very</strong> image heavy, so stuff might take a while to show up on slow connections.<br/>Try not to hard refresh pages as github.io has a 2gb/month bandwidth cap. If you have any suggestions for free/cheap webhosting, <a href="https://twitter.com/bakagamedev">please get in touch</a>!
+Fair warning, pages are <strong>very</strong> image heavy, so stuff might take a while to show up on slow connections.
     </div>
   </body>
 </html>

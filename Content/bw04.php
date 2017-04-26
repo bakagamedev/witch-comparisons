@@ -722,11 +722,6 @@ Rossman's uniform shirt is coloured correctly, her nose has been all but removed
     <script src="js/jquery.event.move.js"></script>
     <script src="js/jquery.twentytwenty.js"></script>
     <script>
-      $(function(){
-          $("#headerinclude").load("pageheader.html");
-      });
-    </script> 
-    <script>
     $(window).load(function(){
       $(".twentytwenty-container[data-orientation!='vertical']").twentytwenty({default_offset_pct: 0.5});
     });
