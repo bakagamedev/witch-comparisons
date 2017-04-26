@@ -26,6 +26,7 @@ Brave Witches<br/>
 	<li>(BD6) Brave Witches #11 – We Won't Know Until We Try</li>
 	<li>(BD6) Brave Witches #12 – Shining with Light...</li>
 </ul>
+<br/>
 Extra pages
 <ul>
 	<li><a title="Added 23rd April 2017" href="swrh.php">Strike Witches 2 - Romagnan Holiday</a> - 28 Images - SFW</li>
