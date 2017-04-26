@@ -5,6 +5,7 @@ html {
 body {
 	background-color: #ffffff;
 	margin: 10px 40px;
+	font-family:"HelveticaNeue","Helvetica Neue",Helvetica,Arial,sans-serif
 }
 
 .page {
@@ -16,18 +17,16 @@ body {
 }
 
 .header {
-	margin: auto;
+	margin-left: auto;
+	margin-right: auto;
 	margin-top: 10px;
 	margin-bottom: 10px;
+
 	padding: 10px;
+	padding-bottom: 40px;
 	max-width: 1280px;
 	background-color: #f2f2f2;
 	border: 1px solid black;
-}
-
-.headerContent
-{
-	padding-top: 10px;
 }
 
 a {
@@ -66,4 +65,82 @@ hr {
 	margin-top: -6px;
 	height:24px;
 	border:none !important;
+}
+
+/* Navigation */
+/* thnx to https://codepen.io/anon/pen/QvdNVg */
+#primary_nav_wrap
+{
+	background-color: #f2f2f2;
+}
+
+#primary_nav_wrap ul
+{
+	list-style:none;
+	position:relative;
+	float:left;
+	margin:0;
+	padding:0
+}
+
+#primary_nav_wrap ul a
+{
+	display:block;
+	color:#333;
+	text-decoration:none;
+	font-weight:700;
+	font-size:12px;
+	line-height:32px;
+	padding:0 15px;
+}
+
+#primary_nav_wrap ul li
+{
+	position:relative;
+	float:left;
+	margin:0;
+	padding:0
+}
+
+#primary_nav_wrap ul li.current-menu-item
+{
+	background:#ddd
+}
+
+#primary_nav_wrap ul li:hover
+{
+	background-color: #e3e3e3;
+}
+
+#primary_nav_wrap ul ul
+{
+	display:none;
+	position:absolute;
+	top:100%;
+	left:0;
+	background-color: #f2f2f2;
+	padding:0
+}
+
+#primary_nav_wrap ul ul li
+{
+	float:none;
+	width:250px;
+}
+
+#primary_nav_wrap ul ul a
+{
+	line-height:120%;
+	padding:10px 15px
+}
+
+#primary_nav_wrap ul ul ul
+{
+	top:0;
+	left:100%
+}
+
+#primary_nav_wrap ul li:hover > ul
+{
+	display:block
 }
