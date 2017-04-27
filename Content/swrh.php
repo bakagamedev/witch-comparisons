@@ -13,9 +13,11 @@
   	    <img title="Best version of the logo they've ever used. The 2 really helps balance it visually." src="./images/sw02logo.jpg" style="max-width: 100%"/>
       <hr/>
       <p/>
-      The second half of Strike Witches 2's 5th episode is a reasonably close recreation of the 1953 film "Roman Holiday", starring Gregory Peck as <abbr title="Joe Bradley">Ensign Francesca Lucchini</abbr> and Audrey Hepburn as the <abbr title="Princess Ann of wherever">Dutchess of Romagna</abbr>.
+      Different kind of comparison today! <p/>The second half of Strike Witches 2's 5th episode is a reasonably close recreation of the 1953 Audrey Hepburn film "Roman Holiday", starring Gregory Peck as <abbr title="Joe Bradley">Ensign Francesca Lucchini</abbr> and Audrey Hepburn as the <abbr title="Princess Ann of wherever">Duchess of Romagna</abbr>. 
       <p/>
-      While the details differ, the basic plot is the same in both instances. A member of royalty escapes, ends up meeting the POV character, and having a fun day relaxing in Rome, before returning to their position. Beyond the plot, Strike Witches drops a number of visual references to the film, which I'm documenting here <abbr title="and because I'm getting bored waiting for the third Brave Witches bluray.">because no one else seems to have done it comprehensively</abbr>.
+      While the details differ, the basic plot is the same in both instances. A member of royalty escapes, ends up meeting the POV character, and having a fun day relaxing in Rome, before returning to their position. <abbr title=">you will never have a comfy day out in Rome with Hepburn ;__;">It's a really comfy movie, if you're into that sort of thing.</abbr> The film seems to be a bit of cult classic in Japan for whatever reason.
+      <p/>
+      Beyond the plot, Strike Witches drops a number of visual references to the film, which I'm documenting here <abbr title="and because I'm getting bored waiting for the third Brave Witches bluray.">because no one else seems to have done it comprehensively</abbr>.
       <hr>
     <li>
       After the characters meet, they end up at the <a title="Scalinata di Trinità dei Monti" href="https://en.wikipedia.org/wiki/Spanish_Steps">Spanish Steps</a>. The establishing shots use the <abbr title="I mean, pretty much, the Roman Holiday version veers to the side a bit at the end.">exact same tilt</abbr>. A neat detail is in the flowers on display in the Strike Witches version. The real steps are covered in Azealeas between April 21st and early May, which matches up nicely with the timeframe of the episode.<br/>
@@ -62,7 +64,7 @@
       <img title="Handy map!" src="./images/swrh/rhmap.jpg" style="max-width:100%"/> <br/>
     </li>
     <li>
-      The dress worn by Ann is almost the same as that worn by Dutchess Maria at the end of the Strike Witches episode.<br/>      
+      The dress worn by Ann is almost the same as that worn by Duchess Maria at the end of the Strike Witches episode.<br/>      
       <img src="./images/swrh/Roman.Holiday(1953).00.04.07.jpg" style="max-width:49%"/>
       <img src="./images/swrh/Strike Witches2.05.21.57.jpg" style="max-width:49%"/>
     <li>
@@ -71,7 +73,7 @@
       <img src="./images/swrh/Roman.Holiday(1953).01.48.16.jpg" style="width:49%"/>
       <img src="./images/swrh/StrikeWitches2.05.21.46.jpg" style="width:49%"/>
     <li>
-      Not strictly canon, as it doesn't appear in the episode, but it seems both iterations of the Princess/Dutchess character have the same frilly handkerchief. <br/>
+      Not strictly canon, as it doesn't appear in the episode, but it seems both iterations of the Princess/Duchess character have the same frilly handkerchief. <br/>
       <img src="./images/swrh/Roman.Holiday(1953).00.08.39.jpg" style="max-width:49%"/>
       <a href="http://vignette1.wikia.nocookie.net/strikewitches/images/e/e3/LucchiniScan.JPG/revision/latest?cb=20150204161929">
       <img title="Thanks, SW wikia" src="./images/swrh/LucchiniScan.jpg" style="max-width:49%"/></a>
