@@ -12,7 +12,7 @@ bw04|Brave Witches #04
 06584 | The outlines are overall thicker, mostly visible above the traffic light thing.
 06291 | More of the above propeller trickery. Because it looks exactly the same, I'm reusing the same frame to save your page load times and my bandwidth.
 07038 | Tiny blob of purple removed, look where the salad bowl meets the plate above it.
-07089 | Two more anomalous blobs removed, one between the salad and the grape plate, the other just peeking from behind the plate of ... ham?.
+07089 | Two more anomalous blobs removed, one between the salad and the tomato plate, the other just peeking from behind the plate of ... ham?.
 07100 | Redrawn plate in the foreground.
 07240 | Nao, Nipa, and the tableware has been redrawn.
 07813 | The safety indicator is now pointing towards the firing position. The labels themselves have been moved around a bit to make room for the new position of the switch.
@@ -28,7 +28,7 @@ bw04|Brave Witches #04
 11871 | The ill advised crash-zoom on starting this scene has been removed.
 11919 | Extra plate added. Normally this would be for continuity reasons, but the contents are different in the wide shot.
 12173 | And this over the top zoom has been added, emphasising how awful getting sauce in your eye is. Krupinski is now looking over at Nao rather than towards the food.
-12232 | The zoom pulls out further than the original static version, leading to a more symmetrical shot.
+12232 | The zoom pulls out further than the original static version, leading to a more symmetrical shot. Additionally, Krupinski is now looking over at Nao rather than towards the food.
 12502 | Another dramatic zoom added to transition into Hikari's dramatic bird encounter.
 13060 | Nipa's sweater now has the usual lines on the sleeves, plus Hikari's face has had a minor tweak.
 15260 | <p/>They didn't alter the sauna scene at all, it's exactly as aired. Sorry Anon.</li><li>Hikari climbing the pillar in the distance is much smaller.

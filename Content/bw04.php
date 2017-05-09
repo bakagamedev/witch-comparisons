@@ -203,14 +203,14 @@ Plate in the lower left removed.
 </div>
 </li>
 <li>
-And this over the top zoom has been added, emphasising how awful getting sauce in your eye is. Krupinski is now looking over at Nao rather than towards the food.
+And this over the top zoom has been added, emphasising how awful getting sauce in your eye is. 
 <div class="twentytwenty-container">
   <img src="./images/bw04/tv-12173.jpg" />
   <img src="./images/bw04/bd-12173.jpg" />
 </div>
 </li>
 <li>
-The zoom pulls out further than the original static version, leading to a more symmetrical shot.
+The zoom pulls out further than the original static version, leading to a more symmetrical shot. Additionally, Krupinski is now looking over at Nao rather than towards the food.
 <div class="twentytwenty-container">
   <img src="./images/bw04/tv-12232.jpg" />
   <img src="./images/bw04/bd-12232.jpg" />
