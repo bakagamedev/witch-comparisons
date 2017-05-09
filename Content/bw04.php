@@ -49,7 +49,7 @@ Jumping Hikari still looks pretty meh despite the redraw and different timing. t
 </div>
 </li>
 <li>
-Rossman walks to a slightly different spot, and <a href=".\images\extra\dance.gif">Hikari no longer stands there jiggling for a whole second.</a>.
+Rossman walks to a slightly different spot, and <a href=".\images\extra\dance.gif">Hikari no longer stands there jiggling for a whole second</a>.
 <div class="twentytwenty-container">
   <img src="./images/bw04/tv-04941.jpg" />
   <img src="./images/bw04/bd-04941.jpg" />
@@ -98,7 +98,7 @@ Tiny blob of purple removed, look where the salad bowl meets the plate above it.
 </div>
 </li>
 <li>
-Two more anomalous blobs removed, one between the salad and the grape plate, the other just peeking from behind the plate of ... ham?.
+Two more anomalous blobs removed, one between the salad and the tomato plate, the other just peeking from behind the plate of ... ham?.
 <div class="twentytwenty-container">
   <img src="./images/bw04/tv-07089.jpg" />
   <img src="./images/bw04/bd-07089.jpg" />
