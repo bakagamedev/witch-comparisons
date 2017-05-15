@@ -29,7 +29,7 @@ Brighter and sharper magic circle.
 </div>
 </li>
 <li>
-Carrier is no longer missing the prow, and the deck elevators are slightly darker. The TV version has some weird yellow object floating alongside it that was removed.
+The carriers prow has been chopped down a bit, and the deck elevators are slightly darker. The TV version has some weird yellow object floating by the dock that was removed.
 <div class="twentytwenty-container">
   <img src="./images/bw02/tv-04097.jpg" />
   <img src="./images/bw02/bd-04097.jpg" />
@@ -261,7 +261,7 @@ Hikari has very slightly different eye shines.
 </div>
 <li>
   <hr>
-  <img src="./images/bw02catch.jpg" width="100%" />
+  <img src="./images/eyecatch/bw/bw02catch.jpg" width="100%" />
   <hr>
 </li>
 </li>

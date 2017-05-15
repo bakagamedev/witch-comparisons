@@ -29,7 +29,8 @@ Brave Witches<br/>
 <br/>
 Extra pages
 <ul>
-	<li><a title="Added 15th May 2017" href="bweyecatch.php">Brave Witches - Eyecatches</a> - 4 Images - SFW</li>
+	<li><a title="Added 15th May 2017" href="sweyecatch.php">Strike Witches - Eyecatch gallery</a> - 25 Images - SFW</li>
+	<li><a title="Added 15th May 2017" href="bweyecatch.php">Brave Witches - Eyecatch gallery</a> - 4 Images - SFW</li>
 	<li><a title="Added 23rd April 2017" href="swrh.php">Strike Witches 2 - Romagnan Holiday</a> - 28 Images - SFW</li>
 </ul>
 <hr/>

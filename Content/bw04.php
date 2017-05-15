@@ -273,7 +273,7 @@ Hikari's eyes, nose and collar have been fixed while she's falling backwards.
 </div>
 <li>
   <hr>
-  <img src="./images/bw04catch.jpg" width="100%" />
+  <img src="./images/eyecatch/bw/bw04catch.jpg" width="100%" />
   <hr>
 </li>
 </li>

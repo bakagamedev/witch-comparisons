@@ -342,7 +342,7 @@ The background to Nao doing some crossfit has been moved slightly.
 </li>
 <li>
   <hr>
-  <img src="./images/bw03catch.jpg" width="100%" />
+  <img src="./images/eyecatch/bw/bw03catch.jpg" width="100%" />
   <hr>
 </li>
 <li>

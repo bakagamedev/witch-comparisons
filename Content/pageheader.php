@@ -18,7 +18,8 @@
   </li>
   <li><a href="#">Extra</a>
     <ul>
-      <li><a href="bweyecatch.php">Eyecatches</a></li>
+      <li><a href="sweyecatch.php">Strike Witches - Eyecatch gallery</a></li>
+      <li><a href="bweyecatch.php">Brave Witches - Eyecatch gallery</a></li>
       <li><a href="swrh.php">Romagnan Holiday</a></li>
     </ul>
   </li>

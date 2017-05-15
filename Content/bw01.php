@@ -282,7 +282,7 @@ Slightly sharper water line thing around Takami.
 </li>
 <li>
 	<hr>
-	<img src="./images/bw01catch.jpg" width="100%" />
+	<img src="./images/eyecatch/bw/bw01catch.jpg" width="100%" />
 	<hr>
 </li>
 <li>
