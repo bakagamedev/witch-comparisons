@@ -259,6 +259,11 @@ Hikari has very slightly different eye shines.
   <img src="./images/bw02/tv-16257.jpg" />
   <img src="./images/bw02/bd-16257.jpg" />
 </div>
+<li>
+  <hr>
+  <img src="./images/bw02catch.jpg" width="100%" />
+  <hr>
+</li>
 </li>
 <li>
 Beams.

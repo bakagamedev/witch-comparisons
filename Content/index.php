@@ -8,7 +8,7 @@
   <body>
   <?php include 'pageheader.php';?>
   <div class="page">
-  Current status : Waiting on BD3
+  Current status : <abbr title="Day 31 under the dome, water supplies running low">Waiting on BD3</abbr>
     <hr/>
 Brave Witches<br/>
 <ul>

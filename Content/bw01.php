@@ -12,8 +12,8 @@
   <ol>
 	<li>
 	    <img src="./images/bw01.jpg" style="max-width: 100%"/>
+	</li>	
     <hr/>
-	</li>
 <li>
 More planes in the background.
 <div class="twentytwenty-container">
@@ -279,6 +279,11 @@ Slightly sharper water line thing around Takami.
 	<img src="./images/bw01/tv-15719.jpg" />
 	<img src="./images/bw01/bd-15719.jpg" />
 </div>
+</li>
+<li>
+	<hr>
+	<img src="./images/bw01catch.jpg" width="100%" />
+	<hr>
 </li>
 <li>
 Redrawn eyes and mouth.

@@ -271,6 +271,11 @@ Hikari's eyes, nose and collar have been fixed while she's falling backwards.
   <img src="./images/bw04/tv-16808.jpg" />
   <img src="./images/bw04/bd-16808.jpg" />
 </div>
+<li>
+  <hr>
+  <img src="./images/bw04catch.jpg" width="100%" />
+  <hr>
+</li>
 </li>
 <li>
 Rossman's eyes have been redrawn.
@@ -342,6 +347,8 @@ Different rain effect, and a patch on the back of Hikari's collar is now coloure
   <img src="./images/bw04/tv-24000.jpg" />
   <img src="./images/bw04/bd-24000.jpg" />
 </div>
+</li>
+<li>
 <abbr title="Not going to get tired of this joke anytime soon.">Nao is nao</abbr> wearing her glove.
 <div class="twentytwenty-container">
   <img src="./images/bw04/tv-24330.jpg" />

@@ -341,6 +341,11 @@ The background to Nao doing some crossfit has been moved slightly.
 </div>
 </li>
 <li>
+  <hr>
+  <img src="./images/bw03catch.jpg" width="100%" />
+  <hr>
+</li>
+<li>
 The lighting on Chidori is very slightly darker, and for precisely 3 frames, Sasha's hand was the same colour as her skirt.
 <div class="twentytwenty-container">
   <img src="./images/bw03/tv-14480.jpg" />
