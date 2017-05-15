@@ -8,7 +8,7 @@
   <body>  
   <?php include 'pageheader.php';?>
   <div class="page">
-All images are 1920x1080, taken from a Blu-ray source.
+All images are 1920x1080, taken from a Blu-ray source. <a href="./extra/bweyecatch.zip">Zip download here</a>
 <hr>
 <ol>
 <li>
