@@ -12,7 +12,8 @@
     <li>
     Doing this because the Brave Witches TV version looked bad and I have some free time every now and then, and needed an excuse to learn how to wrangle HTML/CSS. <br/>
     <a href="https://twitter.com/bakagamedev">For corrections and complaints, yell at me on Twitter.</a><p/>
-  Unaffiliated with, but inspired by <a href="https://jojocomparisons.github.io/">Jojo's bizarre Comparisons</a>.<br/> 
+  Unaffiliated with, but inspired by <a href="https://jojocomparisons.github.io/">Jojo's bizarre Comparisons</a>.<p/>
+  The site shows up a bit weirdly on Internet Explorer and Edge, but the content is fine. Dunno why, seems they don't respect vertical padding correctly.
     </li>
     </ol>
     </div>
