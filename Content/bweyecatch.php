@@ -8,7 +8,7 @@
   <body>  
   <?php include 'pageheader.php';?>
   <div class="page">
-All images are 1920x1080, taken from the blu-ray versions.
+All images are 1920x1080, taken from a Blu-ray source.
 <hr>
 <ol>
 <li>
