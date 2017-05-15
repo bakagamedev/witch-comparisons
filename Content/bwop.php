@@ -12,6 +12,8 @@
 <ol>
 <li>
     <img title="I miss the white outlines." src="./images/bwop.jpg" style="max-width: 100%"/>
+    <hr/><p/>
+    The opening titles have so many changes it made sense to just make an entire page just for them.
     <hr/>
 </li>
 <li>
