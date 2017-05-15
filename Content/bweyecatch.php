@@ -25,7 +25,7 @@ Episode 3
 </li>
 <li>
 Episode 4
-<img src="./images/eyecatch/bw/bw04catch.jpg" width="100%" />
+<img src="./images/eyecatch/bw/bw04catch.jpg" width="100%" title="Good example for why the logo looks better with a white outline." />
 </li>
 </ol>
 </body>
