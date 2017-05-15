@@ -1,6 +1,6 @@
 <div class="header">
 <a href="index.php">
-  <img src="./images/header.jpg" style="max-width:100%;"/>
+  <img src="./images/header.jpg" href="index.php" width="100%"/>
 </a>
 
 <nav id="primary_nav_wrap">
@@ -18,6 +18,7 @@
   </li>
   <li><a href="#">Extra</a>
     <ul>
+      <li><a href="bweyecatch.php">Eyecatches</a></li>
       <li><a href="swrh.php">Romagnan Holiday</a></li>
     </ul>
   </li>
