@@ -13,7 +13,7 @@
 <li>
     <img title="I miss the white outlines." src="./images/bwop.jpg" style="max-width: 100%"/>
     <hr/><p/>
-    The opening titles have so many changes it made sense to just make an entire page just for them.
+    The opening titles have so many changes it made sense to just make an entire page just for them. <br/>The first Blu-ray came with a textless version of the opening, which I'm using here because it was less effort to use and looks better.
     <hr/>
 </li>
 <li>
@@ -139,7 +139,7 @@ Krupinski is looking good
 </div>
 </li>
 <li>
-Reframed shot to bring the Neuroi craft more central.
+Reframed shot to bring the Neuroi craft more central. 
 <div class="twentytwenty-container">
     <img src="./images/bwop/tv-01441.jpg" />
     <img src="./images/bwop/bd-01441.jpg" />
@@ -153,9 +153,9 @@ Shimohara is no longer a blurry mess.
 </div>
 </li>
 <li>
-This bit was redone with bigger and closer explosions, some obscuring the camera at points.<br/>
-    <img src="./images/bwop/tv-a.gif" width="49%"/>
-    <img src="./images/bwop/bd-a.gif" width="49%"/>
+This bit was redone with bigger and closer explosions, some obscuring the camera at points. <br/>
+    <img src="./images/bwop/tv-a.gif" width="49.9%"/>
+    <img src="./images/bwop/bd-a.gif" width="49.9%"/>
 </li>
 <li>
 Georette.
@@ -198,8 +198,8 @@ Hikari now has propellers and the Neuroi is now central in the frame.
 </li>
 <li>
 This explosion is more vivid and has a better looking flash.<br/>
-    <img src="./images/bwop/tv-b.gif" width="49%"/>
-    <img src="./images/bwop/bd-b.gif" width="49%"/>
+    <img src="./images/bwop/tv-b.gif" width="49.9%"/>
+    <img src="./images/bwop/bd-b.gif" width="49.9%"/>
 </li>
 <li>
 Takami's face has been redrawn.
