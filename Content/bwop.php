@@ -154,8 +154,7 @@ Shimohara is no longer a blurry mess.
 </li>
 <li>
 This bit was redone with bigger and closer explosions, some obscuring the camera at points. <br/>
-    <img src="./images/bwop/tv-a.gif" width="49.9%"/>
-    <img src="./images/bwop/bd-a.gif" width="49.9%"/>
+<video autoplay controls loop width="auto" src="./images/bwop/comparisona.webm"/> 
 </li>
 <li>
 Georette.
@@ -198,8 +197,7 @@ Hikari now has propellers and the Neuroi is now central in the frame.
 </li>
 <li>
 This explosion is more vivid and has a better looking flash.<br/>
-    <img src="./images/bwop/tv-b.gif" width="49.9%"/>
-    <img src="./images/bwop/bd-b.gif" width="49.9%"/>
+<video autoplay controls loop width="auto" src="./images/bwop/comparisonb.webm"/> 
 </li>
 <li>
 Takami's face has been redrawn.

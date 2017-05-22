@@ -8,6 +8,12 @@ body {
 	font-family:"HelveticaNeue","Helvetica Neue",Helvetica,Arial,sans-serif
 }
 
+video
+{
+    width: 100%;
+    height: auto;
+}
+
 .page {
     margin: 0 auto;	
 	max-width: 1300px;

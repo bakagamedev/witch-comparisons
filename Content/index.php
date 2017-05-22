@@ -1,6 +1,7 @@
 <html>
 <head>
   <meta charset="utf-8" />
+	<meta name="keywords" content="Brave Witches,Strike Witches,Blu-ray comparison,BD comparison,">
   <title>Witch Comparisons</title>
   <link href="css/style.css" rel="stylesheet" type="text/css" />
   <link rel="icon" type="image/png" href=".\favicon.png">       
@@ -10,9 +11,10 @@
   <div class="page">
   Current status : <abbr title="Day 31 under the dome, water supplies running low">Waiting on BD3</abbr>
     <hr/>
-Brave Witches<br/>
+
+<br/>TV / Blu-ray comparisons
 <ul>
-	<li><a title="Added 13th March 2017" href="bwop.php">Brave Witches OP - 74 images - SFW</a></li>
+	<li><a title="Added 13th March 2017" href="bwop.php">Brave Witches OP - 70 images, 2 videos - SFW</a></li>
 	<li><a title="Added 14th March 2017" href="bw01.php">(BD1) Brave Witches #01 – The Witch of Sasebo?</a> - 122 images - NSFW </li>
 	<li><a title="Added 14th March 2017" href="bw02.php">(BD1) Brave Witches #02 – Take Flight, Chidori</a> - 158 images - SFW</li>
 	<li><a title="Added 7th April 2017" href="bw03.php">(BD2) Brave Witches #03 – The 502nd Joint Fighter Wing</a> - 272 images - SFW</li>
@@ -26,13 +28,16 @@ Brave Witches<br/>
 	<li>(BD6) Brave Witches #11 – We Won't Know Until We Try</li>
 	<li>(BD6) Brave Witches #12 – Shining with Light...</li>
 </ul>
-<br/>
-Extra pages
+<br/>Subtitles
 <ul>
+	<li><a title="Added 16th May 2017" href="./extra/[sanya]BWvol2.zip">Brave Witches BD2 subtitles</a> - All credit goes to [Eila], this is just a retiming job. <a href="https://nyaa.pantsu.cat/view/914069">[Torrent]</a></ul>
+<br/>Extra pages
+<ul>
+	<li><a title="Added 23rd April 2017" href="swrh.php">Strike Witches - Romagnan Holiday</a> - 28 Images - SFW</li>
 	<li><a title="Added 15th May 2017" href="sweyecatch.php">Strike Witches - Eyecatch gallery</a> - 25 Images - SFW</li>
 	<li><a title="Added 15th May 2017" href="bweyecatch.php">Brave Witches - Eyecatch gallery</a> - 4 Images - SFW</li>
-	<li><a title="Added 23rd April 2017" href="swrh.php">Strike Witches 2 - Romagnan Holiday</a> - 28 Images - SFW</li>
 </ul>
+
 <hr/>
 Fair warning, pages are <strong>very</strong> image heavy, so stuff might take a while to show up on slow connections.
     </div>

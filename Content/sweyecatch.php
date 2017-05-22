@@ -64,7 +64,7 @@ Season 2 eyecatches are in 1920x1080<hr/>
 <ol>
 <li>
 Episode 1
-<img src="./images/eyecatch/sw02/sw0201catch.png" width="100%" />
+<img src="./images/eyecatch/sw02/sw0201catch.png" width="100%" title="Shame we didn't see much of these dorks."/>
 </li>
 <li>
 Episode 2
