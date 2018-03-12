@@ -1,0 +1,545 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ComparitronSaveFormat xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <itemList>
+    <ComparitronItem>
+      <Type>Image</Type>
+      <Frame>0</Frame>
+      <Text>this was fun to make.</Text>
+      <Image>./images/bw07.jpg</Image>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Text</Type>
+      <Frame>0</Frame>
+      <Text>After a long break, lets move onto BD4.</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Divider</Type>
+      <Frame>0</Frame>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>897</Frame>
+      <Text>The eyes are all redrawn and Nipa's arm waving is behind by roughly 3 frames;</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>3358</Frame>
+      <Text>The camera move going past Nao is slightly slower.</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>3447</Frame>
+      <Text>Nao shakes on some frames, but it's otherwise the same, here's one of them;</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>4516</Frame>
+      <Text>Eye sparkles of determination!</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>4582</Frame>
+      <Text>The ice kicked up by the sled is much reduced. </Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>4593</Frame>
+      <Text>As is usual in these sorts of scenes, the "hair and stuff flapping around" animation is out of sync by a few frames.</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>4660</Frame>
+      <Text>:D</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>4689</Frame>
+      <Text>They all move across the frame faster and the background, while moving at roughly the same speed, starts at a different point.</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>4808</Frame>
+      <Text>I can't really tell if Nao's face looks more or less pained here;</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>4924</Frame>
+      <Text>Here's two more shots of retimed flappy stuff;</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>5886</Frame>
+      <Text />
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>6559</Frame>
+      <Text>Nao's hands are moved in a tiny bit closer to poor Nipa's skull.</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>7920</Frame>
+      <Text>Sasha's ear has been reattached and her hair shading has been spruced up. A good upgrade.</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>8247</Frame>
+      <Text>The pin on Shimohara's collar is redrawn with the colours inside the lines this time, and a seam on her uniform's left shoulder no longer goes over the top of her apron.</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>9063</Frame>
+      <Text>Nose shadow!</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>9503</Frame>
+      <Text>Sasha's eyes are a little pointier at the sides and Krupinski's has some minor tweaks including a shorter head and her body having a slightly wider aspect ratio.</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>9676</Frame>
+      <Text>Later in the same shot, Sasha turns her head showing some more minor fixes to her face and hair.</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>10347</Frame>
+      <Text>The shading on Nipa's left boot and ankle is lighter, Nao's boots have swapped shading and, wow, it's fucking nothing, &lt;abbr title="At least, I think this isn't a compression artefact."&gt;the back wall has a slightly rougher texture in spots&lt;/abbr&gt;.</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>10859</Frame>
+      <Text>Everyone is redrawn and Hikari's pillow looks comfier!</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>11127</Frame>
+      <Text>Nao and Nipa have their eyes redrawn;</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>11269</Frame>
+      <Text>One cutaway later, Nipa starts leaning forward and her TV self falls straight into derp territory.</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>11996</Frame>
+      <Text>Nipa is ... different here.</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>12494</Frame>
+      <Text>'ear 'ear</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>12948</Frame>
+      <Text>Everyone here is much better looking after a complete redraw;</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>13153</Frame>
+      <Text>One particular line in Sasha's hair disappears for a few frames on TV while she's moving her head;</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>14115</Frame>
+      <Text>Nipa's eyes get yet another fix, and wow, take a look at the inverted shadow on Georgette's uniform.</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>14536</Frame>
+      <Text>This is not a good episode for faces, apparently. Also, Georgette's uniform has some corrected lines.</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>14907</Frame>
+      <Text>On TV, some facial features such as eyelashes occasionally disappeared during this walking shot, and Nao's scarf and the tips of her hair have been tweaked.</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>15164</Frame>
+      <Text>Roßmans's mouth remains shut rather than hanging agape and her eye shinies are larger.</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>15327</Frame>
+      <Text>Nipa and Nao are moved up and to the left, but appear otherwise untouched.</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>15401</Frame>
+      <Text>Krupinski has a few more shadows and her eyes are redrawn, plus they fixed some missing lines on Nipa's outfit.</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>15590</Frame>
+      <Text>↖that way↖</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>15859</Frame>
+      <Text>These two just can't get a break this episode, huh.</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>16042</Frame>
+      <Text>Krupinski elegantly chuckling to herself is taller and looks to be sitting comfortably.</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>16290</Frame>
+      <Text>After the initial doorslam, all the screenshake and motion blur is removed.</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Divider</Type>
+      <Frame>0</Frame>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Image</Type>
+      <Frame>0</Frame>
+      <Text>♪poker face♪</Text>
+      <Image>./images/eyecatch/bw/bw07catch.jpg</Image>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Divider</Type>
+      <Frame>0</Frame>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>17098</Frame>
+      <Text>Rall is moved further away from her &lt;strong&gt;enormous desk&lt;/strong&gt;.</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>17498</Frame>
+      <Text>This tilt of Krupinski travels further and is reframed so the sign is easier to read. </Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>17564</Frame>
+      <Text />
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>18280</Frame>
+      <Text>Sasha and Nipa are redrawn in this shot with much cleaner linework.</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>18308</Frame>
+      <Text>Nipa's pose is still a bit off IMO, but it's definitely drawn better.</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>18835</Frame>
+      <Text>The tree falls slower at first, then speeds up as it heads towards the floor. It doesn't travel quite as far before the cut.</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Video</Type>
+      <Frame>0</Frame>
+      <Text>controls</Text>
+      <Video>./images/extra/bw07tree.webm</Video>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>19599</Frame>
+      <Text>Sasha's previously static hands get a small chopping loop;</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>20534</Frame>
+      <Text>The Grigori hive is removed from the map behind Nipa and the shading on it is slightly darker. Oh, and the sky outside is now red.</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>20656</Frame>
+      <Text>The shading change is more obvious in this closeup; </Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>21477</Frame>
+      <Text>High quality Nipa action;</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>21814</Frame>
+      <Text>Nipa's nose is slightly bolder, her right eye is slightly altered, and a small shadow by her right armpit is removed;</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>21860</Frame>
+      <Text>Shortly after, a new shadow on her right arm appears. Weird.</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>22057</Frame>
+      <Text>A patch of shadow on Rossman's arm was flickering, instead of getting fixed, it was removed entirely.</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>22620</Frame>
+      <Text>The shading on one of elegant Krupinski's fingers is darker;</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>23419</Frame>
+      <Text>Nipa's arm patch is restored, a crease on her left sleeve is altered and her left eyebrow has an additional line.</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>23540</Frame>
+      <Text>Hikari's face looks better and her hairclip is more detailed.</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>23588</Frame>
+      <Text>As Hikari stops running, the background decelerates slower leading to a different ending position;</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>23893</Frame>
+      <Text>CG Nipa has some minor changes to her Strikers and weapon.</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>24119</Frame>
+      <Text>The &lt;a href="http://www.verycomputer.com/28_5c8c059990957312_1.htm"&gt;potentially anachronistic&lt;/a&gt; phone is replaced with the usual model. </Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>24138</Frame>
+      <Text>Rall's cleft lip is fixed;</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>24171</Frame>
+      <Text>The phone and the bowl of whatever that is are redrawn, and Rall's left leg is in shadows.</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>24396</Frame>
+      <Text>CGI Nipa flies closer to the camera, and everything is less blurry.</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>24473</Frame>
+      <Text>The Neuroi of the week™ is lighter and the cloud layer below it reveals more of the ground.</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>24553</Frame>
+      <Text>Brighter blams, as usual.</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>24677</Frame>
+      <Text>This still looks pretty bad. </Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>25121</Frame>
+      <Text>More/less cloud cover and the shot is reframed slightly.</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>25361</Frame>
+      <Text>Finally, a full replacement. Much better.</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>25452</Frame>
+      <Text>Nipa is moved upwards a tiny bit.</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>25518</Frame>
+      <Text>The super jarring CG transition is gone, but ... they misplaced the propellers...</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>25534</Frame>
+      <Text>After a couple of frames, the misplaced props end up in the right spot, but the memory lingers.</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>25791</Frame>
+      <Text>This closeup looks waaaay better. I like the good use of foreshortening.</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>25870</Frame>
+      <Text>The muzzle flash timing is slightly different.</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>25940</Frame>
+      <Text>The background here is a tad dimmer.</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>25987</Frame>
+      <Text>Nipa's movements in this shot are completely different and much closer to the camera, which is also at a different angle. It starts off in a similar way...</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>25977</Frame>
+      <Text>CG Nipa pulls back...</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>25988</Frame>
+      <Text>New Nipa hangs around the midground for a while...</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>26004</Frame>
+      <Text>Before flying back to roughly the same distance as her TV counterpart.</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>26036</Frame>
+      <Text>Everything besides Hikari in the foreground is shifted to the right.</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>26090</Frame>
+      <Text>Nipa's pose is altered but she's still a CG model;</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>26178</Frame>
+      <Text>This Neuroi beam isn't quite as over the top as it once was;</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>26214</Frame>
+      <Text>The Fliegerhammer rockets are shinier and the sky backdrop has the usual alterations;</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>26317</Frame>
+      <Text>The smoke from the damaged Neuroi here streams behind it rather than upwards;</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>26452</Frame>
+      <Text>Everything in this closeup of the Neuroi core is brighter, including the big white diagonal flare thingy.</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>26503</Frame>
+      <Text>As usual, the shooting is brighter and bolder.</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>26538</Frame>
+      <Text>Like a few shots ago, the smoke is trailing backwards from the Neuroi, giving us a better look at the exposed core and the dramatic spark effects. Also, some clouds are now airbrushed away, weirdly.</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>26674</Frame>
+      <Text>Nipa has better shading and some small line changes on her strikers and her arm patch has the correct outlines.</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>26782</Frame>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Text</Type>
+      <Frame>0</Frame>
+      <Text>I'll probably be using these frames a lot around Christmas so I'm putting them here for safe keeping.</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Image</Type>
+      <Frame>0</Frame>
+      <Image>./images/extra/bd-26885.jpg</Image>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Image</Type>
+      <Frame>0</Frame>
+      <Image>./images/extra/bd-26886.jpg	</Image>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>27505</Frame>
+      <Text>The shot is reframed very slightly, the ice has a lighter/patchier texture to it, and the &lt;a href="https://en.wikipedia.org/wiki/NKL-26"&gt;snowmobile&lt;/a&gt; has a slightly darker coat of paint.</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>27559</Frame>
+      <Text>Here's a closeup of the NKL-26. Not a huge difference, but having some extra texture is always good.</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>27674</Frame>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>27960</Frame>
+      <Text>This change persists for later scenes with it parked inside the hangar;</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>28681</Frame>
+      <Text>Finally, some good character redraws! Nao has her face, hair and arms redrawn from scratch, Georgette is completely new and only Sadako's head and collar are changed, which is weird as her torso is probably the worst of the lot. Still, good improvements.</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>28987</Frame>
+      <Text>Everyone is at least partially redrawn here. lots of new bodies and faces.</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>29293</Frame>
+      <Text>Sasha's triangular collar emblem is fixed here;</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>29312</Frame>
+      <Text>The placket under Eila's collar was incorrectly coloured white;</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>29656</Frame>
+      <Text>Lots of minor fixes here; Nipa's hair had an unshaded portion. Nao's scarf had an incomplete section near her neck, and her patch was missing. Sasha's collar was completely the wrong shape and the triangular thingies where missing. </Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>29918</Frame>
+      <Text>Hikari's collar was missing a bit and the thingy she's holding has changed colour from orangey yellow to red to match how it looks in the other angles.</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>30230</Frame>
+      <Text>The snowmobile has it's usual weathering changes;</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>30348</Frame>
+      <Text />
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>30561</Frame>
+      <Text />
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>30890</Frame>
+      <Text>Sanya and Eila are now closer in height, as they should be;</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>31300</Frame>
+      <Text>This sudden zoom in on Nipa's face is accompanied by a fade-through-white transition that clears much faster on the blu-ray;</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>31411</Frame>
+      <Text>And lets finish with one last shot of the snowmobile. Nice.</Text>
+    </ComparitronItem>
+  </itemList>
+  <projectID>bw07</projectID>
+  <projectTitle>Brave Witches #07 - On a Holy Night</projectTitle>
+</ComparitronSaveFormat>

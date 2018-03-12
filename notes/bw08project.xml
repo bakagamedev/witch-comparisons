@@ -1,0 +1,1003 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ComparitronSaveFormat xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <itemList>
+    <ComparitronItem>
+      <Type>Image</Type>
+      <Frame>0</Frame>
+      <Image>./images/bw08.jpg</Image>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Text</Type>
+      <Frame>0</Frame>
+      <Text>This episode has loads of jumbled up and completely different segments that made this page a pain to edit;</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Divider</Type>
+      <Frame>0</Frame>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>34</Frame>
+      <Text>The image saturation in the opening battle is boosted;</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>66</Frame>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>72</Frame>
+      <Text>Sadly, these cute single frame puffs of smoke have been culled.</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>110</Frame>
+      <Text>This shot is from a completely different angle, actually showing the Neuroi being fired at. Cool!</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Video</Type>
+      <Frame>0</Frame>
+      <Text>controls</Text>
+      <Video>./images/extra/bw08videoa.webm</Video>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>3643</Frame>
+      <Text>The lighting is changed to be lighter on the crate and darker on the weapons held within.</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>3827</Frame>
+      <Text>The crate is lighter again, and Nao has her head and scarf redrawn. Unfortunately, they accidentally erased the segment of arm visible between Nao's body and scarf.</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>3880</Frame>
+      <Text>The pan over to Hikari peering over is a fair bit slower;</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>3893</Frame>
+      <Text>Hikari's facial details, &lt;a href="./images/extra/darkerthanblack.jpg"&gt;collarbones&lt;/a&gt; and shirt are redrawn;</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>4005</Frame>
+      <Text>Nao and Krupinski are completely new, and Hikari has a white highlight on her butt.</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>4389</Frame>
+      <Text>Hikari's eyeshines are slightly altered as she eyes up the &lt;a href="https://en.wikipedia.org/wiki/FP-45_Liberator"&gt;Liberator&lt;/a&gt; pistol.</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>4604</Frame>
+      <Text>Nao is visible and Nipa is actually in frame. Krupinski's uniform has a collar patch restored and Hikari's eyes are more symmetrical.</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Text</Type>
+      <Frame>0</Frame>
+      <Text>I lied, Nipa was actually in the frame the whole time.</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Image</Type>
+      <Frame>0</Frame>
+      <Image>./images/extra/bw08-tv-04690.jpg</Image>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>4713</Frame>
+      <Text>The lighting on the crate is still much lighter, and Nipa's arm patch is restored. More noticeably, the lone weapon sitting on the crate is now two weapons, with accompanying ammo.</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>4868</Frame>
+      <Text>The floor is &lt;strike&gt;lava&lt;/strike&gt; a crate;</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>5158</Frame>
+      <Text>Nipa's entire head is redrawn with less bulky linework, and her sweater has some lines extended;</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>5187</Frame>
+      <Text>There are some minor detail changes to the &lt;a href="https://www.youtube.com/watch?v=l12Csc_lW0Q" title="I still think about this song occasionally"&gt;macaron&lt;/a&gt; and Krupinski's eye;</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>5217</Frame>
+      <Text>Krupinski's face outline is slightly redrawn and the microfilm canister is shaded black;</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>5599</Frame>
+      <Text>Rall and her clipboard are redrawn from scratch, Krupinski, Sasha and Rossman, having adequately drawn torso's, merely have redrawn heads.</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>5738</Frame>
+      <Text>Rossman's double eyelashes are pared down;</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>6542</Frame>
+      <Text>Something really weird was happening with her eyelashes in this scene;</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>6798</Frame>
+      <Text>Rall's mouth is drawn slightly larger when fully open;</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>8168</Frame>
+      <Text>This is a repeated art style quirk that pops up occasionally on Brave Witches, the band of light running along Rall's face as a highlight covered over the shadow;</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>8497</Frame>
+      <Text>Nearly every aspect of every character present is completely redrawn, the bread has texture(!!!) and the bowls are less wonky;</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>9717</Frame>
+      <Text>The entire night scene with Krupinski and Rossman talking has some focus and lighting changes, everything is slightly sharper and brighter;</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>9820</Frame>
+      <Text>Krupinski moves her hand up a few frames earlier;</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>9867</Frame>
+      <Text>On the TV version, her entire right eye drifts slightly when she focusses;</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>10093</Frame>
+      <Text>Rossmans's eyes are lower and rounder, her eyebrows are higher and rounder, and her mouth line is continuous;</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>10543</Frame>
+      <Text>Krupinski's eyelashes have some small blobs added and removed as she prepares to make a serious statement regarding Hikari;</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>10599</Frame>
+      <Text>As she makes an important point, Krupinski's hands and arms are redrawn, her eyes and eyebrows are slightly altered and there's a new patch of shadow under her hair;</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>10741</Frame>
+      <Text>Nipa's strikers have a new coat of paint and some bolder outlines;</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>10847</Frame>
+      <Text>Nipa is now looking downwards rather than forwards-ish, Nao's eyes are slightly tweaked, every CG prop has much bolder outlines, and the red light on the stand is now off;</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>10973</Frame>
+      <Text>The stands have much stronger outlines here, blending in much better;</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>11015</Frame>
+      <Text>Rare smug Hikari's left eye and nose are corrected, and the shadow over her neck is reduced;</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>11080</Frame>
+      <Text>Hikari's eyes are looking better;</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>11183</Frame>
+      <Text>Here's an improved shot of Krupinski taking her job seriously, she's entirely redrawn;</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>11962</Frame>
+      <Text>As they depart the base, the takeoff shot is completely new;</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Video</Type>
+      <Frame>0</Frame>
+      <Text>controls</Text>
+      <Video>./images/extra/bw08videob.webm</Video>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>11978</Frame>
+      <Text>The shading and her coat silhouette is better, I guess. </Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>12002</Frame>
+      <Text>Everything still looks like arse.</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>12061</Frame>
+      <Text>The ship outlines are much much stronger, making everything look much darker from this vantage point despite the colouring being roughly the same;</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>12618</Frame>
+      <Text>The ships here are higher in the water and have more detailed weathering texturework. Nice.</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>12872</Frame>
+      <Text>Aside from everything being jumbled around slightly, the only big changes I can spot here are Krupinski's eye being redrawn and her weapon strap colour going from green to brown;</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>12960</Frame>
+      <Text>The strap over Krupinski's shoulder is now visible in this shot;</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>13112</Frame>
+      <Text>The bobbing motion is marginally stronger, nothing else to report here;</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>13226</Frame>
+      <Text>Hikari's striker propellers are layered correctly here, being between the viewer and the vertical stabilser, not behind it. The blue magic bloom effect is a little stronger, too;</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>13500</Frame>
+      <Text>CG → Not CG + 1 cloud;</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>13525</Frame>
+      <Text>Contrary to the other shots of various ships, this one docked at Petrozavodsk is now lower in the water;</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>13656</Frame>
+      <Text>The striker stand rack things are shaded lighter and the indicator lights are now switched off;</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>13878</Frame>
+      <Text>Really bad CG → Bad CG</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>13924</Frame>
+      <Text>There's a bunch of different scrolling cloud backgrounds over the next few shots. Not wishing to bore you, here's a few representative samples; </Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>13989</Frame>
+      <Text />
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>14121</Frame>
+      <Text />
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>14278</Frame>
+      <Text>The large cloud below the witches now rolls offscreen earlier;</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>14322</Frame>
+      <Text>Nao's punchglove is now going over her sleeve rather than being tucked into it, and small portions of her and Krupinski's hair is shaded differently;</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>14861</Frame>
+      <Text>The witches fly away faster and the clouds are zoomed out;</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>14954</Frame>
+      <Text>The strikers here have some paintwork fixes;</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>15037</Frame>
+      <Text>Everyone is redrawn completely, and the &lt;a href="https://en.wikipedia.org/wiki/Type_99_light_machine_gun"&gt;Type99&lt;/a&gt; isn't quite so comically huge;</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>15155</Frame>
+      <Text>The CG characters have some texture and lighting changes;</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>15196</Frame>
+      <Text>Nipa's failing striker has much bolder outlines, fixed paintwork and the lighting is falling from a different angle;</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>15331</Frame>
+      <Text>Everyones faces are redrawn, and the belt holding Nipa's pouches up has a new shadow;</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>15577</Frame>
+      <Text>Nao and Hikari swap positions here to match the previous frame, and Nipa's strikers are streaming smoke.</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Divider</Type>
+      <Frame>0</Frame>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Image</Type>
+      <Frame>0</Frame>
+      <Text>:thinking emoji:</Text>
+      <Image>./images/eyecatch/bw/bw08catch.jpg</Image>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Divider</Type>
+      <Frame>0</Frame>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>15840</Frame>
+      <Text>This change is interesting, The TV version is one long slow pan followed by a quick pass over strikers in the hangar, while the BD version shuffles things around by having the strikers first, then using a brand new establishing shot of the witches walking outside the hangar;</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>15909</Frame>
+      <Text />
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>15976</Frame>
+      <Text />
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Video</Type>
+      <Frame>0</Frame>
+      <Text>controls</Text>
+      <Video>./images/extra/bw08videoc.webm</Video>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>16028</Frame>
+      <Text>Zooming in, the witches are redrawn;</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>16090</Frame>
+      <Text>Hikari doing this thing with her face is redrawn from scratch, much closer to the camera;</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>16106</Frame>
+      <Text />
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>16222</Frame>
+      <Text>Virgin TV witches vs Chad Blu-ray witches;</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>16350</Frame>
+      <Text>Krupinski, Nao and Nipa are altered here. Hikari is left alone for some reason;</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Text</Type>
+      <Frame>0</Frame>
+      <Text>!LOOK! TANK WITCHES!!!</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Image</Type>
+      <Frame>0</Frame>
+      <Text>!!!TANK WITCHES!!!</Text>
+      <Image>./images/extra/bw08tankwitches.jpg</Image>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>16913</Frame>
+      <Text>This tilt shot of the new striker unit has darker, rounder looking shadows;</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>16969</Frame>
+      <Text>These crates have texture;</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>17070</Frame>
+      <Text>These strikers aren't quite as heavily altered as the previous pair, a little darker, altered shadowing, and some highlights on bevelled edges;</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>17139</Frame>
+      <Text>Besides the line detail on the surface of the crates, the metal of the lock brackets have some shine applied;</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>17379</Frame>
+      <Text>The ... pallet the crates are on has a different shadow... oh yeah, and the witches, they're redrawn too;</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>17513</Frame>
+      <Text>Crates!</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>17716</Frame>
+      <Text>The usual indicator light thingy is glowing redder than it was before and the outlines on the stand are a little stronger;</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>18008</Frame>
+      <Text>This particular CG shot is drawn anew with less motion blur;</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>18097</Frame>
+      <Text>This closeup has the characters shifted very slightly;</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>18156</Frame>
+      <Text>Hikari's standing up animation is sped up slightly;</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>18176</Frame>
+      <Text>Hikari is very slightly redrawn, with different hair and different hand outlines. The Nao and Nipa blobs flying around in the background have new solid outlines and glowy propellers;</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>18300</Frame>
+      <Text>Returning to the &lt;abbr title="watch flying witch, btw"&gt;flying witches&lt;/abbr&gt;, they have sharper outlines here, too;</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>18338</Frame>
+      <Text>Much better closeup shot here;</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>18386</Frame>
+      <Text>Nao's pointy CG nose bridge is repaired</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>18535</Frame>
+      <Text>The nearby clouds here are rotated slightly;</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>19066</Frame>
+      <Text>The bar obscuring Krupinski's face is gone, gone, gone;</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>19198</Frame>
+      <Text>Hikari and Nao are redrawn;</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>19643</Frame>
+      <Text>Nipa's entire head is redrawn and her bed has a small additional shadow;</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>19684</Frame>
+      <Text>After lying backwards, a crease line disappears;</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>19736</Frame>
+      <Text>On the other side of a pan, the empty bed on the far right is lighter;</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>20374</Frame>
+      <Text>Nao and Nipa get redrawn whilst Hikari is exempt, again;</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>20482</Frame>
+      <Text>The trio on the left are looking a lot better;</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>21023</Frame>
+      <Text>Like before, nearly every damn cloud in the sky is altered;</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>21134</Frame>
+      <Text>Nao's left arm is going forward-er and her Fuso patch is restored;</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>21492</Frame>
+      <Text>Here, she's moved up and to the left. Nipa and Hikari are no longer CG models and Krupinski's blue anime face is massively reduced;</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>21522</Frame>
+      <Text>The completely flat ship lighting now has some shading and contrast to it, plus some extra texturing!</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>21583</Frame>
+      <Text />
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>21724</Frame>
+      <Text>These re-textured gun barrels don't look &lt;i&gt;great&lt;/i&gt; but they don't look like they've iced over, either;</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>21740</Frame>
+      <Text>Another shot of that one ship with the arctic camouflage;</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>21989</Frame>
+      <Text>The witches closest to the camera are redrawn from scratch, and Krupinski, still looking a little blue is scaled down which makes her look a little less conspicuous;</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>22190</Frame>
+      <Text>Krupinski looks way better here;</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>22195</Frame>
+      <Text>Here too;</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>22396</Frame>
+      <Text>Lots of special effects are repositioned, such as the top-left ships wake, the smoke...</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>22428</Frame>
+      <Text>This beam striking that ship has a nice meaty looking new explosion effect added to the smoke;</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>22465</Frame>
+      <Text>This stern looking man has his right epaulette fixed;</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>22532</Frame>
+      <Text>The explosion on the right is now layered behind the big splash;</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>22551</Frame>
+      <Text>And this other explosion is much bigger!</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>22608</Frame>
+      <Text>New establishing shot on the downed Britannian witch. &lt;a href="./images/extra/bw08britanianwitch.jpg"&gt;No, she doesn't actually have a name.&lt;/a&gt;</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>22795</Frame>
+      <Text>The slightly better lighting here brings out the shape of the ...sheet;</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>22902</Frame>
+      <Text>Clouds!</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>22967</Frame>
+      <Text>Here's a good example of the new ship texturing and lighting;</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>23030</Frame>
+      <Text>This explosion is less smokey and the water is a smidge darker blue;</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>23140</Frame>
+      <Text>The impacts and explosions on the Neuroi's hull are larger and reduced in number;</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>23191</Frame>
+      <Text>More motion blur;</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>23376</Frame>
+      <Text>&lt;abbr title="Keep the comparison slider in the middle of the frame to pretend she has two guns."&gt;Krupinski's weapon is slung over the other shoulder.&lt;/abbr&gt; </Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>23540</Frame>
+      <Text>Same story here;</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>23613</Frame>
+      <Text>This closeup shot is now a midground shot;</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>23624</Frame>
+      <Text />
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>23797</Frame>
+      <Text>Nao's CG lighting is brighter and looks a little better, and most of the action going on around her is repositioned;</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>23849</Frame>
+      <Text>The big white cloud obstructing the background is removed so it doesn't look like Nipa is just spraying ammo at a white void;</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>23936</Frame>
+      <Text>Redraw!</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>23985</Frame>
+      <Text>Nao is a little slower moving into position on the blu-ray;</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>24236</Frame>
+      <Text>Here's yet another completely different angle, showing Nao shooting stuff rather than a sky of stuff exploding;</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>24310</Frame>
+      <Text>The sync of her hair animation is altered, the patch is restored to her arm and the sea is textured;</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>24370</Frame>
+      <Text>can you sea the difference?</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>24522</Frame>
+      <Text>Krupinski and Hikari are redrawn in this closeup.</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>24574</Frame>
+      <Text>Hikari is lower and slower here;</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>24669</Frame>
+      <Text>This closeup of Krupinski is swapped for a low angle shot of her firing at the Neuroi;</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>24724</Frame>
+      <Text>As the shot progresses, Hikari enters the frame in the blu-ray version. On TV, she's always just sitting there behind Krupinski;</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>24742</Frame>
+      <Text>Hikari has a minor, almost pointless redraw on a shot that didn't really need it;</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>24834</Frame>
+      <Text>The usual "It's still CG, but..." improvements to outlines are present here;</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>24919</Frame>
+      <Text>The TV version has CG Krupinski flying towards the camera, while the blu-ray version has that shot closeup shot that was used earlier on TV;</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>24930</Frame>
+      <Text>Closeup → Long shot</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>24987</Frame>
+      <Text>These shots focus on completely different things, Krupinski going all close quarters on the Neuroi on the left, Hikari blowing stuff up on the right;</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>25009</Frame>
+      <Text>The close shot of the Neuroi disintegrating continues while the blu-ray has Krupinski flying towards the camera firing;</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>25075</Frame>
+      <Text>The huge explosion is replaced with lots of smaller ones;</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>25127</Frame>
+      <Text>Krupinski's coat is slightly flappier, the background explosions are repositioned, and the background elements are overall less blurry;</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>25204</Frame>
+      <Text>Hikari's collar and face is repaired here;</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>25409</Frame>
+      <Text>The Neuroi damage sparkles are replaced with explosions and damage to the ships;</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>25497</Frame>
+      <Text>This low angle on TV was briefly replaced with a high angle looking down on the ships;</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>25578</Frame>
+      <Text>After a short while, the blu-ray cuts to the same low angle as on TV, but with some improvements to visuals;</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>25625</Frame>
+      <Text>The carnage is toned down a little;</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>25656</Frame>
+      <Text>Nao and Nipa firing at the Neuroi are redrawn;</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>25709</Frame>
+      <Text>These explosions are really toned down;</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>25863</Frame>
+      <Text>The muzzle flash didn't actually happen on TV, it just got stuck at half transparency like this for a few frames; Probably that pesky epilepsy regulation again.</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>25893</Frame>
+      <Text>The Neuroi thingies are exploding one by one into puffs rather than exploding all at once;</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>25950</Frame>
+      <Text>Sharper &lt;i&gt;AND&lt;/i&gt; brighter;</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>25985</Frame>
+      <Text>The shot of Nao sitting there firing is replaced with a CG sequence of her flying shooting at Neuroi. </Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>26018</Frame>
+      <Text />
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>26064</Frame>
+      <Text>This might just be the exact same piece of footage as used earlier.</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>26170</Frame>
+      <Text>Everything is moved around a tiny bit and Hikari and Krupinski have stronger outlines.</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>26185</Frame>
+      <Text>Hikari is redrawn in this closeup.</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>26612</Frame>
+      <Text>Hikari's weapon had a side completely invisible on TV. They fixed it by completely blanking that entire area out, including the gap inside of Hikari's right arm.</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>27319</Frame>
+      <Text>This shot of Krupinski using her magic overpowered strikers is from further away;</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>27370</Frame>
+      <Text>TV Krupinski holds near the camera, while her blu-ray version zooms away into the distance;</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>27410</Frame>
+      <Text>This low angle from between the two ships that is occasionally used is replaced with a high angle shot that is also occasionally used;</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>27600</Frame>
+      <Text>These ship mounted AA guns are now viewed from the back;</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>27659</Frame>
+      <Text>An extra shot of Hikari spinning away from some explosions is added in here. </Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>27691</Frame>
+      <Text>Some of the repeated closeup shots here are replaced with a longer ensemble shot of the witches doing witch stuff;</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>27736</Frame>
+      <Text />
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>27776</Frame>
+      <Text>The closeups that don't get removed are untouched besides brighter muzzle flashes;</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>27836</Frame>
+      <Text />
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>27915</Frame>
+      <Text />
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>28030</Frame>
+      <Text>The spluttery magic effect on Krupinski's strikers is sharper with less small firefly particles;</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>28065</Frame>
+      <Text>This explosion is also sharper with smaller particles;</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>28142</Frame>
+      <Text>Outlines!</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>28236</Frame>
+      <Text>With the less bloomy explosions, you can actually sorta see what the hell is going on in this scene.</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>28291</Frame>
+      <Text>Krupinski is now aiming down towards the Neuroi rather than empty sky;</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>28343</Frame>
+      <Text>This shot is brighter;</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>28450</Frame>
+      <Text>The smoke from Krupinski's striker is darker, she has new outlines and the distant explosions are flamier;</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>28489</Frame>
+      <Text>I don't think however they rendered the CG in the TV version of this calculated self shadowing correctly, that crease on her shoulder looks like the lighting normals are calculated incorrectly to me;</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>28569</Frame>
+      <Text>The sky now has some explody Neuroi shards;</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>28612</Frame>
+      <Text>The sheer number of explody bits in the sky is reduced. They didn't fix the explosion being layered over Nao rather than under her.</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>28657</Frame>
+      <Text>The closeup of a &lt;i&gt;fantastic&lt;/i&gt; looking CG Nao is removed in favour of keeping the camera static relative to the characters. A good decision.</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>28692</Frame>
+      <Text>Everyones posed a little differently here, most notably Nao doing the superman pose;</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>28750</Frame>
+      <Text>You can actually see what the fuck is going on here.</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>28793</Frame>
+      <Text />
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>28896</Frame>
+      <Text>The distant explody Neuroi bathes the much nicer looking ship in red light.</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>29098</Frame>
+      <Text>The Neuroi laser attack timing is slightly altered and the lighting is a little brighter.</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>29133</Frame>
+      <Text>Krupinski is CG when close to the camera on TV, but redrawn for the blu-ray;</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>29143</Frame>
+      <Text>But sadly swaps back to CG after a couple of frames, albeit with bolder outlines and a darker smoke trail;</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>29195</Frame>
+      <Text>This super obvious CG standin for Krupinski is completely replaced, thankfully;</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>29294</Frame>
+      <Text>This explosion is looking a little grey.</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>29956</Frame>
+      <Text>Some of Krupinski's body outline is nibbled away slightly to make it look like it's under water, and her submerged hair has a new highlight;</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>30257</Frame>
+      <Text>This phone's cord is back;</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>30290</Frame>
+      <Text>One of Rall's outlines escaped and covered her enormous desk on TV in this shot. They fixed that by redrawing her completely;</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>30758</Frame>
+      <Text>From left to right, Nipa's arm patch and a bit of her boob shadow is restored, Nao's ears, eyes and eyelashes have some tweaks, and Nao has a darker shadow on her shirt to go with her arm patch.</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>31044</Frame>
+      <Text>Finishing up this episode, the anonymous Britannian Witch has an absolutely inconsequential face redraw;</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>31067</Frame>
+      <Text />
+    </ComparitronItem>
+  </itemList>
+  <projectID>bw08</projectID>
+  <projectTitle>Brave Witches #08 - Grape Juice for your eyes!</projectTitle>
+</ComparitronSaveFormat>

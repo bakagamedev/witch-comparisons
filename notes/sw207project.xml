@@ -1,0 +1,513 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ComparitronSaveFormat xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <itemList>
+    <ComparitronItem>
+      <Type>Image</Type>
+      <Frame>0</Frame>
+      <Image>/images/sw207.jpg</Image>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Text</Type>
+      <Frame>0</Frame>
+      <Text>ants in yer pants</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Divider</Type>
+      <Frame>0</Frame>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>3125</Frame>
+      <Text>The window to Perrine's room is from different angle and has more detailed stones and shading.</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>3805</Frame>
+      <Text>The camera moves over Erica faster;</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>4314</Frame>
+      <Text>The right strap on Eila's top was lacking some shading on TV.</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>5541</Frame>
+      <Text>For this slow tilt shot of Minna, she's had many slight tweaks and touchups.</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>5858</Frame>
+      <Text>Lucchini doing this thing is redrawn and reanimated.</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>5883</Frame>
+      <Text />
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Video</Type>
+      <Frame>0</Frame>
+      <Text>controls</Text>
+      <Video>./images/extra/sw207lucchini.webm</Video>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>7235</Frame>
+      <Text>This previously &lt;abbr title="pun"&gt;very flat&lt;/abbr&gt; looking Lynette is redrawn;</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>7291</Frame>
+      <Text>Shortly after, the &lt;a href="https://en.wikipedia.org/wiki/Woggle" title="it's actually called that, I swear"&gt;woggle&lt;/a&gt; on Miyafuji's tie is shaded in darker.</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>8932</Frame>
+      <Text>The background layer scrolls much slower on the blu-ray version;</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>10051</Frame>
+      <Text>A small patch on Erica's discarded uniform is now coloured white;</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>11308</Frame>
+      <Text>Hilariously, the red dividing line down the middle of Trude and Erica's shared room went up the middle of the door;</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>12505</Frame>
+      <Text>Behold, nakedness;</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>12539</Frame>
+      <Text />
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>12579</Frame>
+      <Text>Here's a mistake introduced to the blu-ray version, a weird splodge has appeared in the spot I guess they wanted to draw Lucchini's ear in, but forgot;</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>12860</Frame>
+      <Text>Lynette's right leg was animated weirdly, so they redrew the animation. Looks much better;</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>13012</Frame>
+      <Text>Their faces are redrawn and the HUGE SUNBEAM is gone;</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>13047</Frame>
+      <Text>Uncensored closeup;</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>13228</Frame>
+      <Text>I like how they originally censored Eila's back out when there was no need for it for 95% of the runtime of this shot;</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>13379</Frame>
+      <Text>This wholesome shot has some wholesome, family friendly additions;</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>13458</Frame>
+      <Text>Lucchini : Serial molester;</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>14829</Frame>
+      <Text>Buttbeam! And they redrew Lynette's chest and left eye. I picked this frame in particular because I like Miyafuji's shifty side-eye;</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>14914</Frame>
+      <Text>Lynette's localized sunburn is toned down massively;</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>15218</Frame>
+      <Text>A weird line on Lynette's stomach is removed and they removed the massive glare censor;</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>16250</Frame>
+      <Text>Red.</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>16301</Frame>
+      <Text>More red;</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>16442</Frame>
+      <Text>Perrine's "Oh it's nothing" hand wave animation was changed to run twice rather than three times.</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>16502</Frame>
+      <Text>Lots of minor redraws of embarassed Perrine;</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>16575</Frame>
+      <Text>Another Perrine;</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>17039</Frame>
+      <Text>Unbeamed bottom;</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Divider</Type>
+      <Frame>0</Frame>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Image</Type>
+      <Frame>0</Frame>
+      <Image>./images/eyecatch/sw02/sw0207catch.png</Image>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Divider</Type>
+      <Frame>0</Frame>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>18138</Frame>
+      <Text>Everyone looks a bit sharper. Look at Lynette's new chiseled Jawline, for example;</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>18341</Frame>
+      <Text>Lucchini's massive overbite was removed; Is this the best frame of Miyafuji ever drawn? Maybe.</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>19705</Frame>
+      <Text>The Neuroi buttbug finally appears on this page, but it's still not the focus of the image;</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>20974</Frame>
+      <Text>Miyafuji was redrawn and Lucchini was ... moved;</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>21170</Frame>
+      <Text>Handsome Shirley in a fantastic "Oh hello there" pose has some minor details poked and prodded;</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>22260</Frame>
+      <Text>Miyafuji's hair has a total of two fixed lines and Lucchini's left eye is a little different;</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Text</Type>
+      <Frame>0</Frame>
+      <Text>Up until this point, it looked like this page would be really short. Nope, the next scene is an entire minute of new imagery. There's everything here, redraws, reframes, timing changes, shading differences. Wonderful.</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>22738</Frame>
+      <Text>Lynette has some extra animation here! Instead of standing bolt upright, she starts the shot leaning forward slightly before moving backwards;</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>22751</Frame>
+      <Text />
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>22766</Frame>
+      <Text>Lucchini is zoomed in a bit;</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>22860</Frame>
+      <Text>Miyafuji is thinner and Lucchini enters the shot a moment later;</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>22917</Frame>
+      <Text>Looks like Miyafuji is a bit smaller here;</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>22959</Frame>
+      <Text>Zoomed in Sakamoto;</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>23004</Frame>
+      <Text>Miyafuji's body is redrawn and her blush marks have those squiggly lines they don't use consistently;</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>23052</Frame>
+      <Text>Perrine's face is symetrical! And everything is slightly out of focus!</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>23077</Frame>
+      <Text>More redraws!</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>23109</Frame>
+      <Text>This shot is compressed horizontally and the speed blur is reduced;</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>23154</Frame>
+      <Text>Trude stands up quicker to begin with, but just hangs there halfway up for a while before standing up straight;</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>23198</Frame>
+      <Text>Erica looks far spookier and the timing for Miyafuji swinging her head around is behind slightly;</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>23228</Frame>
+      <Text>Every single element in this pan is moved around so goes past the camera at a different point;</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>23256</Frame>
+      <Text />
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>23275</Frame>
+      <Text />
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>23307</Frame>
+      <Text>The camera is pulled out a little on this shot of Shirley holding a gizmo;</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>23347</Frame>
+      <Text>The speedlines are at a different angle and everything is zoomed in a little;</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Text</Type>
+      <Frame>0</Frame>
+      <Text>Your patience is rewarded with : Video!</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Video</Type>
+      <Frame>0</Frame>
+      <Text>controls</Text>
+      <Video>./images/extra/sw207runaround.webm</Video>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>23418</Frame>
+      <Text>Shirleys body and Miyafuji's face resting on said body are altered for the better;</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>23538</Frame>
+      <Text>:O</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>23569</Frame>
+      <Text>Lynette, in profile</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>23624</Frame>
+      <Text>Every single line on Sakamoto is redrawn, but in virtually exactly the same way. Weird.</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>23682</Frame>
+      <Text>The background now scrolls in the opposite direction to the characters, giving a slight parallax effect;</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>23819</Frame>
+      <Text>&lt;abbr title="I wonder if my page builder accepts emoji"&gt;💪&lt;/abbr&gt;</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>24211</Frame>
+      <Text>Eila's shadow is lighter and they sorted out the minor problem with her arms being clipped just a tad too low so they overlapped the draw she's fumbling around in;</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>24272</Frame>
+      <Text>Eila's uniform has some shading fixes. Take a good look at these featureless metal rods, they show up a lot;</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>24422</Frame>
+      <Text>Eyes, mouth and thumbs;</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>24526</Frame>
+      <Text>Eila's face and hands are redrawn and she's moved up and to the right slightly.</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>24655</Frame>
+      <Text>Where does Eila's dowsing rods detect the Neuroi buttbug in this slightly rearranged frame?</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>24865</Frame>
+      <Text>Oh no!</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>24969</Frame>
+      <Text>Thoughtfully, they added some blush shading to Eila's face here;</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>25153</Frame>
+      <Text>The tiny triangle of fabric between Eila's fingers has been shaded in;</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>25199</Frame>
+      <Text>This motion is delayed slightly, the TV version starts with Sanya's underwear halfway down.</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>25634</Frame>
+      <Text>One last decensored shot, this time of Minna;</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>25699</Frame>
+      <Text>The TV version slowly zooms out over the course of a few seconds while the blu-ray does the same thing but in reverse, it zooms in;</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>26886</Frame>
+      <Text>Sakamoto turns a little earlier and Miyafuji is slightly ahead;</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>26991</Frame>
+      <Text>Once they stop and the animation syncs up, it's clear they're completely redrawn;</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>27063</Frame>
+      <Text>On TV, the first time Sakamoto hits this button, it doesn't depress,</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>27605</Frame>
+      <Text>After this point, the TV version of the quality rods grow a thicker handle section;</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>27638</Frame>
+      <Text>Funny to think they could mess up drawing small metal sticks, but here we are.</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>28619</Frame>
+      <Text>The jet of water is coloured a lighter shade of blue;</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>28642</Frame>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>28663</Frame>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>28686</Frame>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>28841</Frame>
+      <Text>Sanya has more depth and is no longer leaning forward at a dangerous angle;</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>29104</Frame>
+      <Text>Completely unnecessary and somehow worse redraw of Lynette;</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>29394</Frame>
+      <Text>Trude was completely crosseyed here, somewhat appropriately;</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>29688</Frame>
+      <Text>A cut away and back later, Trude is still a bit wonky;</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>29996</Frame>
+      <Text>Rods!</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>30104</Frame>
+      <Text>Here's some sneaky footage re-use, but this time, Miyafuji's movement timing is better synced with her TV counterpart;	</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>30257</Frame>
+      <Text>A slightly less chubby-faced Sakamoto;</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>30342</Frame>
+      <Text>I lied, here's another decensored Minna;</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>30868</Frame>
+      <Text>They removed the stray wall on the far right of the frame that was partially hiding Lynette;</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>30933</Frame>
+      <Text>Aghast Minna is redrawn!</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>31071</Frame>
+      <Text>Redrawn ¯\_(-_-)_/¯ Minna</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>31236</Frame>
+      <Text>The zoom-in is changed to be much faster and blurrier;</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>31400</Frame>
+      <Text>Ending on a high note, here's one last shot of the quality rods;</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Text</Type>
+      <Frame>0</Frame>
+      <Text />
+    </ComparitronItem>
+  </itemList>
+  <projectID>sw207</projectID>
+  <projectTitle>Strike Witches 2 #07 - It's all creepy crawly</projectTitle>
+</ComparitronSaveFormat>
