@@ -1,0 +1,855 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ComparitronSaveFormat xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <itemList>
+    <ComparitronItem>
+      <Type>Image</Type>
+      <Frame>0</Frame>
+      <Text>What language do they even speak in-universe in this show? Seriously.</Text>
+      <Image>./images/bw10.jpg</Image>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Text</Type>
+      <Frame>0</Frame>
+      <Text>I don't have a working grammar checker either.</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Divider</Type>
+      <Frame>0</Frame>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>64</Frame>
+      <Text>This ships hull has a more weathered, rusty look to it;</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>225</Frame>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>293</Frame>
+      <Text>Aside from the ship texture differences, some weird lighting on Takami's swimsuit is removed, and the gold buttony bits on this mans epaulets are painted gold;</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>2992</Frame>
+      <Text>The witches have an ISO Standard 2D makeover. Lets do roll call!&lt;p&gt;Sasha!</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>3006</Frame>
+      <Text>Georgie!</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>3024</Frame>
+      <Text>Hikari!</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>3097</Frame>
+      <Text>Nao and Hikari's vertical stabilisers are layered correctly behind the spinny magic propeller blades;</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>3311</Frame>
+      <Text>Hikari's beautiful and graceful lunge towards the unsuspecting Neuroi is zoomed in a tiny bit further and the segment of Neuroi hull visible on the left is removed;</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>3378</Frame>
+      <Text>Hikari doing a &lt;i&gt;sick handspring&lt;/i&gt; has some work done to it, her pose is different and she has stronger outlines. Her trajectory takes her a little closer to the camera, too;</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>3392</Frame>
+      <Text>Majestic.</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>3480</Frame>
+      <Text>Nao doing cool witch stuff has a cool witch redraw;</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>3509</Frame>
+      <Text>She flies closer to the camera for a closeup that wasn't there before;</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>3548</Frame>
+      <Text>She discards her weapon about half a second earlier on the TV version;</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>3587</Frame>
+      <Text>The sky is a lighter blue, her eyes have the shinies put in their rightful place and a small portion of shadow on the left side of her face is restored;</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>3594</Frame>
+      <Text>Nao's eyes have a different gradient and she has slightly red cheeks. Probably because it's cold.</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>3789</Frame>
+      <Text>The shot of Nao looking smug about a job well done is reframed with Hikari and Nao moved downwards;</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>3920</Frame>
+      <Text>For precisely 3 frames, the shadow Nao's coat was casting on her shirt was missing;</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>3962</Frame>
+      <Text>And here, the colourists had mixed up Nao's coat and Glove;</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>4175</Frame>
+      <Text>Everyone here is redrawn completely, looking much sharper and on-model;</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>4276</Frame>
+      <Text>Here too;</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>4583</Frame>
+      <Text>Some minor things are changed in this panning shot, Krupinski's weapon and strap are lighter and furnished properly, Sasha's collar, hair, sleeve button, and upper uniform in general is tidied up;</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>4621</Frame>
+      <Text>And over here, Nao's legs are shaded in properly.</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Text</Type>
+      <Frame>0</Frame>
+      <Text>Here's a stitch of the scene, just for you;</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Image</Type>
+      <Frame>0</Frame>
+      <Image>./images/extra/502group.png</Image>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>4721</Frame>
+      <Text>This incoming Ju-52 wiggles around less as it comes into land;</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>5094</Frame>
+      <Text>Nao's arm patch was previously missing;</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>5235</Frame>
+      <Text>Rall's lower face and neck have been redrawn.</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>6041</Frame>
+      <Text>For a handful of frames before she raises her arms, Nao's arm patch was coloured in the same brown as her jacket;</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>6147</Frame>
+      <Text>This shot is repeated. Now I look at it, I think the outlines on her face are a teeny bit sharper;</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>6768</Frame>
+      <Text>Similar to how they handled things in the second episode, the general lighting of sea scenes is different, particuarly on the planes;</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>6881</Frame>
+      <Text />
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>6896</Frame>
+      <Text>This big plot relevant boi, the &lt;a href="https://en.wikipedia.org/wiki/Schwerer_Gustav"&gt;Schwerer Gustav&lt;/a&gt; railway gun, is rotated a little so the perspective fits the rails better, and it leaves a dark shadow in the foreground. Ontop of another shadow, of course. &lt;a href="https://www.youtube.com/watch?v=0svypHu7-oo"&gt;It's red in this shot.&lt;/a&gt;</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>7052</Frame>
+      <Text>The TV version of this shot has the gun stationary, the BD version opts to keep it moving and enlarge it, filling the entire frame.</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>7118</Frame>
+      <Text>Hikari in the back there is redrawn entirely, Nipa's changes are mostly to her face and left arm, and Nao has a tiny segment of shadow added, eye sparkles, and arm patch;</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>8685</Frame>
+      <Text>When I say "Nao", you say "patch" !</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>9388</Frame>
+      <Text>The timings here are completely different, the TV version starts panning first...</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>9475</Frame>
+      <Text>Then it stops, just as Sasha starts talking...</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>9607</Frame>
+      <Text>And the Blu-ray version takes over, ending the cut in roughly the same position. Weird.</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>9616</Frame>
+      <Text>A button on Georgette's breast pocket was missing, and Hikari's nose is 4x larger;</Text>
+      <Video />
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>9720</Frame>
+      <Text>Hikari's dumb ahoge was shaded entirely black, and she was sweating in the hot St Petersburg winter;</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>9811</Frame>
+      <Text>Standing up, her tie changed colour;</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>9830</Frame>
+      <Text>This tilt, once rather slow, now travels the entire length of Hikari's body in about 4 frames, getting her face into shot just in time for her to start talking;</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>9916</Frame>
+      <Text>Everyone here is redrawn, much sharper;</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>10468</Frame>
+      <Text>It's only for a split second, but Takami's weapon and upper part of her body was either too small to be seen or missing;</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>10524</Frame>
+      <Text>Takami doing that weird mid air stopping trick while buzzing the base is running ahead by a few frames;</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>10639</Frame>
+      <Text>The witches are all redrawn;</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>10815</Frame>
+      <Text>Nipa's patch is back. Sasha's eye brows and eye lashes are redrawn, plus her collar decorations and breast pocket are now included;</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>11542</Frame>
+      <Text>Takami is either smaller or further away and her outlines are stronger;</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>11591</Frame>
+      <Text>As Hikari chases, Takami is flying lower to the ground;</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>12177</Frame>
+      <Text>The barrel of Takami's weapon is a little duller and for a handful of frames, her hair and ears have some minor lighting mistakes fixed;</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>12367</Frame>
+      <Text>Zooming in, the barrel colouration is changed again, and the portion around the front stand is no longer incorrectly filled in;</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>13075</Frame>
+      <Text>The outlines on this &lt;a href="https://en.wikipedia.org/wiki/Messerschmitt_Bf_109"&gt;Messerschmitt Bf 109&lt;a&gt; are bolder;</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Divider</Type>
+      <Frame>0</Frame>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Image</Type>
+      <Frame>0</Frame>
+      <Image>./images/eyecatch/bw/bw10catch.jpg</Image>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Divider</Type>
+      <Frame>0</Frame>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>13537</Frame>
+      <Text>After the break, Hikari is redrawn in a less chunky fashion;</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>13706</Frame>
+      <Text>Takami too, which is good as her original form her was a particuarly strong level of bad;</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>13809</Frame>
+      <Text>Takami floating casually past Hikari is moved back by a few frames;</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>14017</Frame>
+      <Text>This is a bit of a weird one, Takami is super slightly ahead, as if the scene was recomposited and she was placed out of alignment by a pixel or two to the right;</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>14164</Frame>
+      <Text>A nose!</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>14170</Frame>
+      <Text>Everyone is redrawn and Sasha is wearing her tights;</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>14319</Frame>
+      <Text>Nao's facial features are jiggled downwards a bit;</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>14786</Frame>
+      <Text>The faces are all redrawn, particuarly with Nao who is now looking further to her left;</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>14905</Frame>
+      <Text />
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>14966</Frame>
+      <Text />
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>15123</Frame>
+      <Text />
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>15436</Frame>
+      <Text>This brief shot of Krupinski firing her fetching orange training weapon is animated in 2D;</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>15485</Frame>
+      <Text>Takami here is still CGI, they just tried to hide it with motion blur;</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>15565</Frame>
+      <Text>The entire shot is moved slightly to the right and Krupinski's animation is 1 frame ahead of where it used to be;</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>15608</Frame>
+      <Text>They fly past the camera faster here;</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>15717</Frame>
+      <Text>just moved to the right a little, heh, nothing personal, kid;</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>15763</Frame>
+      <Text>To emphasise the slow-mo effect, they added some... motion blur. There are no new frames here, they're just blended together;</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>15791</Frame>
+      <Text>*dramatic turn*</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>15830</Frame>
+      <Text>Their new poses show off their strikers better and it looks like they are actually aiming at each other rather than casually showing their weapons off;</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>15901</Frame>
+      <Text>Ditto for this long shot;</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>15984</Frame>
+      <Text>Sasha has her tights back! Take a moment to notice that oddly sharp vertical cloud edge on the far right of the image, it looks like that slipped through the fixing process;</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>16207</Frame>
+      <Text>Hikari's hair is filled in.</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>16337</Frame>
+      <Text>Georgette's eyes are a little touched up and Rossman has a slightly redder tone to her cheeks;</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>16386</Frame>
+      <Text>The dreaded spoon holding curse strikes again, the artists just kept fucking that up;</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>16901</Frame>
+      <Text>Rall's uniform is correctly asymetrical and her right eyebrow is more outliney;</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>17157</Frame>
+      <Text>Their faces have been adjusted and the gap in Rall's collar is fixed;</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>17301</Frame>
+      <Text>&lt;span title="&lt;textwall&gt;"&gt;And now for something completely different, a sauna scene. A saunene if you will. Moving from left to right; &lt;p&gt;Nao's leg has a different outline shape, her kneecap has a black flick of an outline, there are more beads of sweat hanging off her leg and the ones that were previously there are more visible, her right arm and hand have more clearly defined outlines, her hair is mostly redrawn while her face is entirely redrawn, the towel is redrawn in spots and the shading is inverted in some places particuarly near the crotch area, the area where her legs meet her body no longer has a weird cut off suggesting that she has ball joints like an action figure and her left leg is slightly occluding her left hand, which is a kinda neat. &lt;p&gt;Now, Sasha, her skin tone is overall lighter and yellower, she too has more sweat drops, her hair is a little different looking with the curls redrawn smaller and slightly sharper, her fringe was only half drawn in originally which has been corrected, the towel has an errant shadow removed, and her left hand and wrist are redrawn up to where they meet the forearm, looking less anatomically suspect and with the colour no longer breaking out of the lines; &lt;p&gt;&lt;a href="https://youtu.be/PAfumQNqdsE?t=17" title="You don't understand, the entirety of Higurashi was building up to this moment"&gt;Nipa!&lt;/a&gt;: Just like the previous two, her lines are redone in spots, in this case particuarly around her chest, butt and hair, with her hair receiving new shading work.&lt;/span&gt;</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>17395</Frame>
+      <Text>The framing is a little different and everyone is redrawn;</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>17610</Frame>
+      <Text>Yet again, everyone is redrawn. More noteably, the bench is raised up a little bit;</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>17955</Frame>
+      <Text>A patch of Nao's head near her left ear was incorrectly coloured in as hair;</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>18074</Frame>
+      <Text>This angle is repeated with all the improvements from earlier;</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>18515</Frame>
+      <Text>Georgette and Shimohara's face and hair details are redrawn, and the towel around Georgette has thicker outlines;</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>18624</Frame>
+      <Text>Shimohara's face is shuffled around and her hair highlight is moved and at a different angle.</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>18680</Frame>
+      <Text>Hey it's this shot again, with precisely the same changes;</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>18916</Frame>
+      <Text>The closeup wheel spins and lands on ... Krupinski!</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>18978</Frame>
+      <Text>Nao's face is moved downwards and to the left and has thinner outlines;</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>19163</Frame>
+      <Text>Pointing the camera back towards Sasha and Nipa, the base linework is the same, or at least the same shape, but with finer lines and some slightly moved elements;</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>19209</Frame>
+      <Text>The trio here's heads are all redrawn in minute ways, as are Shimohara's collarbones;</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>19255</Frame>
+      <Text>Ending this scene, here's another Nao, for the road. Her outlines are overall thinner and most of her facial elements are shifted slightly upwards;</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>19441</Frame>
+      <Text>Hikari scaling the pillar is redrawn and her flappy clothing is timed differently;</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>20085</Frame>
+      <Text>Oh no, they forgot to draw Takami's underwear on the TV version, lewd. One of Hikari's fluffy hair tufts is less shiney;</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>20380</Frame>
+      <Text>Hikari's hair timing is a little out and her eye shineys are redrawn larger;</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>20872</Frame>
+      <Text>Back on the ground, Rall and Takami are redrawn entirely, with much tidier and precise linework and better shading. Good improvement;</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>21062</Frame>
+      <Text />
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>21128</Frame>
+      <Text>Rall's collar and pin are corrected;</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>21546</Frame>
+      <Text>This shot of Takami has been replaced with a long tilt up her body, meaning the two versions are incomparable. For the record, I think the original version looks better, her head just looks weird in the blu-ray;</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Text</Type>
+      <Frame>0</Frame>
+      <Text>Here's a stitch of the blu-ray versions tilt shot;</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Image</Type>
+      <Frame>0</Frame>
+      <Image>./images/extra/bd-21421.jpg</Image>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>22563</Frame>
+      <Text>This cute shot of Rossman doing up Rall's combat corset has both of them redrawn;</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>22603</Frame>
+      <Text>They turn around, revealing - new faces! </Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>22625</Frame>
+      <Text>Look at Rall's smile! Full of determination.</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>22850</Frame>
+      <Text>Speaking of determination, here's Hikari with a brand new shiny shouting face;</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>23101</Frame>
+      <Text>Hikari's wiggly mouth line is a little larger and wigglier;</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>23222</Frame>
+      <Text>Again with Hikari, her eyes are redrawn and her mouth goes from :) to :D.</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>23265</Frame>
+      <Text>Rall and Rossman are redrawn and moved closer to the center of the room, and on the map in the background, the Grigori hive is marked for consistency with other scenes;</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>23468</Frame>
+      <Text>Hikari's eyes have better outlines, like that previous shot;</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>23513</Frame>
+      <Text>Close up, Rall is redrawn;</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>24366</Frame>
+      <Text>The foreground witches, Hikari and Takami are drawn in 2D whilst the others have the usual slightly better models with slightly better shading. Except Georgette, her head is pointed at a different angle and looks bad now;</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>24459</Frame>
+      <Text>Rossman's eyes are shinier, her strikers are at a different angle, and she's wearing the right clothing. Seriously, look closely at the TV version and you can spot a japanese sailor style bow tie;</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>24628</Frame>
+      <Text>I can't tell if it was the particular encode that I have here, but there are some frames where Rall's mouth is crossfaded between open and closed states;</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>24708</Frame>
+      <Text>Back with the sisters, this shot is slightly zoomed out and there is some extra shading on their animal ears;</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>24782</Frame>
+      <Text>The CG here has some flatter shading. Still looks bad, especially on Hikari's tail and Takami's hair reflections.</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>24849</Frame>
+      <Text>Same story with the rest of the squadron as they fly past;</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>25159</Frame>
+      <Text>The characters here are exactly the same, just moved around a bit. I think Nipa's weapon is two dimensional.</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>25396</Frame>
+      <Text>The sisters are looking a lot better on the blu-ray, particuarly on the faces;</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>25495</Frame>
+      <Text />
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>25757</Frame>
+      <Text>In this super fast, 12 frame flyby shot, Takami's hair has a new model looking a little less like a spikey mess, and Hikari off in the background's hair has the highlight stripe removed;</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>25876</Frame>
+      <Text>Takami holds a different pose as she bounces a neuroi beam off her shield;</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>25912</Frame>
+      <Text>It's still CG, sure, but in this shot of Hikari, she looks a hell of a lot better;</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>25980</Frame>
+      <Text />
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>26178</Frame>
+      <Text>At first glance, this shot of Rall looks basically the same, just moved and with a new face, but on closer inspection, she's completely redrawn with more detail;</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>26525</Frame>
+      <Text>This reaction shot of Georgette starts as a close up then zooms out until she's in the midground, in wihch she's completely redrawn with lots of minor details fixed on her clothing and strikers;</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>26790</Frame>
+      <Text>This scene starts as a long shot, then Rall does a combat roll into the foreground, which she is much faster at on blu-ray. Also, she's been replaced with 2D or something;</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>26832</Frame>
+      <Text>Hikari has sharper outlines and the sky saturation is deeper;</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>27026</Frame>
+      <Text>Standard sharper and brighter blu-ray change, check;</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>27044</Frame>
+      <Text>Takami has her outlines drawn in here;</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>27065</Frame>
+      <Text>After an explosion, there shards are smaller and there are fewer of them;</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>27368</Frame>
+      <Text>This shot of Hikari looks a lot better and the motion blur is removed. But since i'm a dick, I've picked the worst looking tween frame as an example;</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>27478</Frame>
+      <Text>This muzzle flash is brighter as usual, and the background is darkened to increase the impact, and the steam trailing from the barrel is redrawn slightly;</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>27665</Frame>
+      <Text>The Neuroi thingies are a little zoomed out here, Hikari's head and weapon strap are altered and the cloud cover is patchier;</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>27692</Frame>
+      <Text>Rossman firing her Fliegerhammer is seen from a slightly different angle, and her pose is different;</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>27859</Frame>
+      <Text>The inside collar of Hikari's top was mistakenly coloured in fully white, which has been corrected;</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>27960</Frame>
+      <Text>Rossman is redrawn here with her tail intact. </Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>28087</Frame>
+      <Text>Hikari has some extra hair here;</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>28184</Frame>
+      <Text>The Neuroi is lighter with slightly dimmer red lights, the cloud backdrop is patchier as usual and Hikari is shaded differently and has the newer hair model;</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>28221</Frame>
+      <Text>The shadow on Hikari's neck is larger and a blush mark on her cheek now blends in with the highlight better;</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>28376</Frame>
+      <Text>pew pew pew</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>28527</Frame>
+      <Text>Takami also has some redone shading and outlines. The new lighting on the Neuroi gives you a better idea of it's actual shape;</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>28552</Frame>
+      <Text>Here's another one of Takami, now holding the correct weapon. </Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>28590</Frame>
+      <Text>The depth of field blur on the clouds is removed and Takami's cheek blush patch is blended in correctly;</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>28684</Frame>
+      <Text>Nao's chin and mouth are slightly realigned;</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>28757</Frame>
+      <Text>Hikari has an outline and I think the Neuori thingies are shaded slightly differently;</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>28819</Frame>
+      <Text>Nice, this one is completely different. Check out Hikari's awkard right hand in the original version;</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>28868</Frame>
+      <Text>Similar changes to earlier here, the Neuroi is lighter and Hikari is outlinier.</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>29023</Frame>
+      <Text>The camera is pointed at a slightly different angle as Hikari repeats her handspring trick. It's not a comparison or anything, but I'm amused by how obviously low resolution the Neuroi hull texture is;</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>29040</Frame>
+      <Text>She tumbles slightly further away from the camera;</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>29078</Frame>
+      <Text>A weird patch of lines near the back of Takami's neck have been replaced by a hair patch;</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>29664</Frame>
+      <Text>Hikari blocking a Neuroi thingy with her shield is less blurry and her shield is rotated differently;</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>29693</Frame>
+      <Text>Before it explodes, the Neuroi thingy hits the shield closer to dead centre instead of being off to the side. Additionally, the explosion is now telegraphed by a few frames by a bright light effect;</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>29750</Frame>
+      <Text>Hikari being blown backwards has the usual cloud cover changes, her head is at a slightly different angle and the green chunks that represent her striker debris, I guess, have outlines;</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>29807</Frame>
+      <Text>Some of Nao's hair and the green line on her scarf is restored;</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>29856</Frame>
+      <Text>Hikari has an outline and the cloud scroll is lined offset by roughly the height of the frame;</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>29944</Frame>
+      <Text>Takami not only has an outline, she also reaches and catches Hikari a few frames earlier;</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>30001</Frame>
+      <Text />
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>30030</Frame>
+      <Text>Hikari and Takami are both redrawn here. I like Hikari's triangular cheese wedge hair clip on the tv version;</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>30117</Frame>
+      <Text>Takami looks far prettier in this shot;</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>30204</Frame>
+      <Text>Hikari opens her eyes. Her new facial expression reads "worn out" rather than the old "mildly disappointed".</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>30330</Frame>
+      <Text>Takami blinks once in the TV version but doesn't at all on blu-ray;</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>30370</Frame>
+      <Text>The two witches are redrawn much bigger and with more detail;</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>30496</Frame>
+      <Text>Hikari and Takami are redrawn and Takami has a single tear in her eye. Aww;</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>30980</Frame>
+      <Text>Takami's lip gloss is painted back on and her left uniform shoulder is the correct colour;</Text>
+    </ComparitronItem>
+    <ComparitronItem>
+      <Type>Comparison</Type>
+      <Frame>31136</Frame>
+      <Text>Hikari's left eyebrow has an extra squiggle extending from it, and I think her eyebrows in general are shaded a little darker?</Text>
+    </ComparitronItem>
+  </itemList>
+  <projectID>bw10</projectID>
+  <projectTitle>Brave Witches #10 - Big Sister and Little Sister</projectTitle>
+</ComparitronSaveFormat>
